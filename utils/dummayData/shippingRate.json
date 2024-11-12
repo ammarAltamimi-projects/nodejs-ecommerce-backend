@@ -1,0 +1,197 @@
+[
+  {
+    "store": "68282edbaf241330b5f16a53",
+    "country": "67f5d51b4ee5b9e79a729c6d",
+    "returnPolicy": "Return in 30 days",
+    "shippingService": "Standard Ground",
+    "shippingFeePerItem": 4,
+    "shippingFeeForAdditionalItem": 2,
+    "shippingFeePerKg": 1,
+    "shippingFeeFixed": 8,
+    "deliveryTimeMin": 5,
+    "deliveryTimeMax": 10
+  },
+  {
+    "store": "68282edbaf241330b5f16a53",
+    "country": "67f5d51b4ee5b9e79a729c6c",
+    "returnPolicy": "Return in 30 days",
+    "shippingService": "Express Air",
+    "shippingFeePerItem": 8,
+    "shippingFeeForAdditionalItem": 4,
+    "shippingFeePerKg": 3,
+    "shippingFeeFixed": 16,
+    "deliveryTimeMin": 2,
+    "deliveryTimeMax": 4
+  },
+  {
+    "store": "68282edbaf241330b5f16a53",
+    "country": "67f5d51b4ee5b9e79a729bed",
+    "returnPolicy": "Return in 30 days",
+    "shippingService": "International Economy",
+    "shippingFeePerItem": 6,
+    "shippingFeeForAdditionalItem": 3,
+    "shippingFeePerKg": 2.5,
+    "shippingFeeFixed": 12,
+    "deliveryTimeMin": 7,
+    "deliveryTimeMax": 14
+  },
+  {
+    "store": "68282edbaf241330b5f16a53",
+    "country": "67f5d51b4ee5b9e79a729baf",
+    "returnPolicy": "Return in 30 days",
+    "shippingService": "Priority Courier",
+    "shippingFeePerItem": 5,
+    "shippingFeeForAdditionalItem": 2.5,
+    "shippingFeePerKg": 2,
+    "shippingFeeFixed": 10,
+    "deliveryTimeMin": 3,
+    "deliveryTimeMax": 6
+  },
+
+  {
+    "store": "68282edbaf241330b5f16a50",
+    "country": "67f5d51b4ee5b9e79a729c6b",
+    "returnPolicy": "Return in 30 days",
+    "shippingService": "Standard Ground",
+    "shippingFeePerItem": 7,
+    "shippingFeeForAdditionalItem": 3,
+    "shippingFeePerKg": 2.5,
+    "shippingFeeFixed": 14,
+    "deliveryTimeMin": 5,
+    "deliveryTimeMax": 10
+  },
+  {
+    "store": "68282edbaf241330b5f16a50",
+    "country": "67f5d51b4ee5b9e79a729c6d",
+    "returnPolicy": "Return in 30 days",
+    "shippingService": "Express Air",
+    "shippingFeePerItem": 14,
+    "shippingFeeForAdditionalItem": 7,
+    "shippingFeePerKg": 5,
+    "shippingFeeFixed": 28,
+    "deliveryTimeMin": 2,
+    "deliveryTimeMax": 4
+  },
+  {
+    "store": "68282edbaf241330b5f16a50",
+    "country": "67f5d51b4ee5b9e79a729c6c",
+    "returnPolicy": "Return in 30 days",
+    "shippingService": "International Economy",
+    "shippingFeePerItem": 10,
+    "shippingFeeForAdditionalItem": 5,
+    "shippingFeePerKg": 4,
+    "shippingFeeFixed": 20,
+    "deliveryTimeMin": 7,
+    "deliveryTimeMax": 14
+  },
+  {
+    "store": "68282edbaf241330b5f16a50",
+    "country": "67f5d51b4ee5b9e79a729bed",
+    "returnPolicy": "Return in 30 days",
+    "shippingService": "Priority Courier",
+    "shippingFeePerItem": 8,
+    "shippingFeeForAdditionalItem": 4,
+    "shippingFeePerKg": 3,
+    "shippingFeeFixed": 16,
+    "deliveryTimeMin": 3,
+    "deliveryTimeMax": 6
+  },
+
+  {
+    "store": "68282edbaf241330b5f16a56",
+    "country": "67f5d51b4ee5b9e79a729baf",
+    "returnPolicy": "Return in 30 days",
+    "shippingService": "Standard Ground",
+    "shippingFeePerItem": 6,
+    "shippingFeeForAdditionalItem": 3,
+    "shippingFeePerKg": 2,
+    "shippingFeeFixed": 12,
+    "deliveryTimeMin": 5,
+    "deliveryTimeMax": 10
+  },
+  {
+    "store": "68282edbaf241330b5f16a56",
+    "country": "67f5d51b4ee5b9e79a729c6b",
+    "returnPolicy": "Return in 30 days",
+    "shippingService": "Express Air",
+    "shippingFeePerItem": 12,
+    "shippingFeeForAdditionalItem": 6,
+    "shippingFeePerKg": 5,
+    "shippingFeeFixed": 24,
+    "deliveryTimeMin": 2,
+    "deliveryTimeMax": 4
+  },
+  {
+    "store": "68282edbaf241330b5f16a56",
+    "country": "67f5d51b4ee5b9e79a729c6d",
+    "returnPolicy": "Return in 30 days",
+    "shippingService": "International Economy",
+    "shippingFeePerItem": 15,
+    "shippingFeeForAdditionalItem": 7.5,
+    "shippingFeePerKg": 6,
+    "shippingFeeFixed": 30,
+    "deliveryTimeMin": 7,
+    "deliveryTimeMax": 14
+  },
+  {
+    "store": "68282edbaf241330b5f16a56",
+    "country": "67f5d51b4ee5b9e79a729bed",
+    "returnPolicy": "Return in 30 days",
+    "shippingService": "Priority Courier",
+    "shippingFeePerItem": 9,
+    "shippingFeeForAdditionalItem": 4.5,
+    "shippingFeePerKg": 3.5,
+    "shippingFeeFixed": 18,
+    "deliveryTimeMin": 3,
+    "deliveryTimeMax": 6
+  },
+
+  {
+    "store": "68282edbaf241330b5f16a59",
+    "country": "67f5d51b4ee5b9e79a729bed",
+    "returnPolicy": "Return in 30 days",
+    "shippingService": "Standard Ground",
+    "shippingFeePerItem": 5,
+    "shippingFeeForAdditionalItem": 2.5,
+    "shippingFeePerKg": 2,
+    "shippingFeeFixed": 10,
+    "deliveryTimeMin": 5,
+    "deliveryTimeMax": 10
+  },
+  {
+    "store": "68282edbaf241330b5f16a59",
+    "country": "67f5d51b4ee5b9e79a729baf",
+    "returnPolicy": "Return in 30 days",
+    "shippingService": "Express Air",
+    "shippingFeePerItem": 10,
+    "shippingFeeForAdditionalItem": 5,
+    "shippingFeePerKg": 4,
+    "shippingFeeFixed": 20,
+    "deliveryTimeMin": 2,
+    "deliveryTimeMax": 4
+  },
+  {
+    "store": "68282edbaf241330b5f16a59",
+    "country": "67f5d51b4ee5b9e79a729c6c",
+    "returnPolicy": "Return in 30 days",
+    "shippingService": "International Economy",
+    "shippingFeePerItem": 12,
+    "shippingFeeForAdditionalItem": 6,
+    "shippingFeePerKg": 5,
+    "shippingFeeFixed": 24,
+    "deliveryTimeMin": 7,
+    "deliveryTimeMax": 14
+  },
+  {
+    "store": "68282edbaf241330b5f16a59",
+    "country": "67f5d51b4ee5b9e79a729c6b",
+    "returnPolicy": "Return in 30 days",
+    "shippingService": "Priority Courier",
+    "shippingFeePerItem": 7,
+    "shippingFeeForAdditionalItem": 3.5,
+    "shippingFeePerKg": 2.5,
+    "shippingFeeFixed": 14,
+    "deliveryTimeMin": 3,
+    "deliveryTimeMax": 6
+  }
+]

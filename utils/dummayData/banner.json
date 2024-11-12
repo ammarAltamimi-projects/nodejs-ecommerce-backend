@@ -1,0 +1,177 @@
+{
+  "_id": "banner",
+  "bannerDetails": [
+    {
+      "title": "Banner 1",
+      "images": [
+        {
+          "url": "https://picsum.photos/seed/banner1-1/640/480",
+          "public_id": "banner1_img1"
+        },
+        {
+          "url": "https://picsum.photos/seed/banner1-2/640/480",
+          "public_id": "banner1_img2"
+        },
+        {
+          "url": "https://picsum.photos/seed/banner1-3/640/480",
+          "public_id": "banner1_img3"
+        },
+        {
+          "url": "https://picsum.photos/seed/banner1-4/640/480",
+          "public_id": "banner1_img4"
+        },
+        {
+          "url": "https://picsum.photos/seed/banner1-5/640/480",
+          "public_id": "banner1_img5"
+        }
+      ],
+      "links": [
+        "https://www.example.com/banner1/link1",
+        "https://www.example.com/banner1/link2",
+        "https://www.example.com/banner1/link3",
+        "https://www.example.com/banner1/link4",
+        "https://www.example.com/banner1/link5"
+      ],
+      "fallBack": {
+        "url": "https://picsum.photos/seed/banner1-fallback/640/480",
+        "public_id": "banner1_fallback"
+      },
+      "isActive": true,
+      "startDate": "05/17/2025",
+      "endDate": "07/17/2025"
+    },
+    {
+      "title": "Banner 2",
+      "images": [
+        {
+          "url": "https://picsum.photos/seed/banner2-1/640/480",
+          "public_id": "banner2_img1"
+        }
+      ],
+      "links": [
+        "https://www.example.com/banner2/link"
+      ],
+      "fallBack": {
+        "url": "https://picsum.photos/seed/banner2-fallback/640/480",
+        "public_id": "banner2_fallback"
+      },
+      "isActive": true,
+      "startDate": "05/17/2025",
+      "endDate": "07/17/2025"
+    },
+    {
+      "title": "Banner 3",
+      "images": [
+        {
+          "url": "https://picsum.photos/seed/banner3-1/640/480",
+          "public_id": "banner3_img1"
+        }
+      ],
+      "links": [
+        "https://www.example.com/banner3/link"
+      ],
+      "fallBack": {
+        "url": "https://picsum.photos/seed/banner3-fallback/640/480",
+        "public_id": "banner3_fallback"
+      },
+      "isActive": true,
+      "startDate": "05/17/2025",
+      "endDate": "07/17/2025"
+    },
+    {
+      "title": "Banner 4",
+      "images": [
+        {
+          "url": "https://picsum.photos/seed/banner4-1/640/480",
+          "public_id": "banner4_img1"
+        }
+      ],
+      "links": [
+        "https://www.example.com/banner4/link"
+      ],
+      "fallBack": {
+        "url": "https://picsum.photos/seed/banner4-fallback/640/480",
+        "public_id": "banner4_fallback"
+      },
+      "isActive": true,
+      "startDate": "05/17/2025",
+      "endDate": "07/17/2025"
+    },
+    {
+      "title": "Banner 5",
+      "images": [
+        {
+          "url": "https://picsum.photos/seed/banner5-1/640/480",
+          "public_id": "banner5_img1"
+        }
+      ],
+      "links": [
+        "https://www.example.com/banner5/link"
+      ],
+      "fallBack": {
+        "url": "https://picsum.photos/seed/banner5-fallback/640/480",
+        "public_id": "banner5_fallback"
+      },
+      "isActive": true,
+      "startDate": "05/17/2025",
+      "endDate": "07/17/2025"
+    },
+    {
+      "title": "Banner 6",
+      "images": [
+        {
+          "url": "https://picsum.photos/seed/banner6-1/640/480",
+          "public_id": "banner6_img1"
+        }
+      ],
+      "links": [
+        "https://www.example.com/banner6/link"
+      ],
+      "fallBack": {
+        "url": "https://picsum.photos/seed/banner6-fallback/640/480",
+        "public_id": "banner6_fallback"
+      },
+      "isActive": true,
+      "startDate": "05/17/2025",
+      "endDate": "07/17/2025"
+    },
+    {
+      "title": "Banner 7",
+      "images": [
+        {
+          "url": "https://picsum.photos/seed/banner7-1/640/480",
+          "public_id": "banner7_img1"
+        }
+      ],
+      "links": [
+        "https://www.example.com/banner7/link"
+      ],
+      "fallBack": {
+        "url": "https://picsum.photos/seed/banner7-fallback/640/480",
+        "public_id": "banner7_fallback"
+      },
+      "isActive": true,
+      "startDate": "05/17/2025",
+      "endDate": "07/17/2025"
+    },
+    {
+      "title": "Banner 8",
+      "images": [
+        {
+          "url": "https://picsum.photos/seed/banner8-1/640/480",
+          "public_id": "banner8_img1"
+        }
+      ],
+      "links": [
+        "https://www.example.com/banner8/link"
+      ],
+      "fallBack": {
+        "url": "https://picsum.photos/seed/banner8-fallback/640/480",
+        "public_id": "banner8_fallback"
+      },
+      "isActive": true,
+      "startDate": "05/17/2025",
+      "endDate": "07/17/2025"
+    }
+  ]
+}

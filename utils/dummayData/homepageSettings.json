@@ -1,0 +1,109 @@
+{
+  "_id": "homepage_settings",
+  "section": [
+    {
+      "type": "Featured Categories",
+      "displayMode": "standalone",
+      "isActive": true,
+      "order": 1,
+      "limit": 5
+    },
+    {
+      "type": "Featured Categories",
+      "displayMode": "withSubcategories",
+      "isActive": true,
+      "order": 2,
+      "limit": 5,
+      "subcategoryLimit": 3
+    },
+    {
+      "type": "Featured Categories",
+      "displayMode": "withProducts",
+      "isActive": true,
+      "order": 3,
+      "limit": 5,
+      "productLimit": 4
+    },
+    {
+      "type": "Featured Subcategories",
+      "displayMode": "standalone",
+      "isActive": true,
+      "order": 4,
+      "limit": 5
+    },
+    {
+      "type": "Featured Subcategories",
+      "displayMode": "withProducts",
+      "isActive": true,
+      "order": 5,
+      "limit": 5,
+      "productLimit": 4
+    },
+    {
+      "type": "Featured Stores",
+      "displayMode": "standalone",
+      "isActive": true,
+      "order": 6,
+      "limit": 5
+    },
+    {
+      "type": "Featured Stores",
+      "displayMode": "withProducts",
+      "isActive": true,
+      "order": 7,
+      "limit": 5,
+      "productLimit": 4
+    },
+    {
+      "type": "Featured OfferTags",
+      "displayMode": "standalone",
+      "isActive": true,
+      "order": 8,
+      "limit": 5
+    },
+    {
+      "type": "Featured OfferTags",
+      "displayMode": "withProducts",
+      "isActive": true,
+      "order": 9,
+      "limit": 5,
+      "productLimit": 4
+    },
+    {
+      "type": "Featured Brands",
+      "displayMode": "standalone",
+      "isActive": true,
+      "order": 10,
+      "limit": 5
+    },
+    {
+      "type": "Featured Brands",
+      "displayMode": "withProducts",
+      "isActive": true,
+      "order": 11,
+      "limit": 5,
+      "productLimit": 4
+    },
+    {
+      "type": "Top Sales Products",
+      "displayMode": "standalone",
+      "isActive": true,
+      "order": 12,
+      "limit": 5
+    },
+    {
+      "type": "Most Popular Products",
+      "displayMode": "standalone",
+      "isActive": true,
+      "order": 13,
+      "limit": 5
+    },
+    {
+      "type": "Highest Rated Products",
+      "displayMode": "standalone",
+      "isActive": true,
+      "order": 14,
+      "limit": 5
+    }
+  ]
+}

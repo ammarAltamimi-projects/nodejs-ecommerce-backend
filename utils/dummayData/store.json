@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Gadget Mart",
+    "slug": "gadget-mart",
+    "description": "Your one-stop shop for the latest electronics, gadgets, and tech accessories.",
+    "email": "contact@gadgetmart.example.com",
+    "phone": "+1234567810",
+    "featured": true,
+    "ratingAverage": 4.8,
+    "status": "active",
+    "user": "68279d5615b56960ee1bd4ab",
+    "followingUser": [
+      "68279d5615b56960ee1bd4ad",
+      "68279d5615b56960ee1bd4b1",
+      "68279d5615b56960ee1bd4b0"
+    ],
+    "images": [
+      {
+        "url": "https://picsum.photos/seed/gadget-mart-1/640/480",
+        "public_id": "picsum_gadget_mart_1"
+      },
+      {
+        "url": "https://picsum.photos/seed/gadget-mart-2/640/480",
+        "public_id": "picsum_gadget_mart_2"
+      }
+    ],
+    "imageCover": {
+      "url": "https://picsum.photos/seed/gadget-mart-cover/1200/400",
+      "public_id": "picsum_gadget_mart_cover"
+    },
+    "defaultReturnPolicy": "Return in 30 days",
+    "defaultShippingService": "International Delivery",
+    "defaultShippingFeePerItem": 5.0,
+    "defaultShippingFeeForAdditionalItem": 2.5,
+    "defaultShippingFeePerKg": 3.0,
+    "defaultShippingFeeFixed": 10.0,
+    "defaultDeliveryTimeMin": 7,
+    "defaultDeliveryTimeMax": 31
+  },
+  {
+    "name": "Style Corner",
+    "slug": "style-corner",
+    "description": "Trendy clothing and accessories for men, women, and kids.",
+    "email": "hello@stylecorner.example.com",
+    "phone": "+1234567811",
+    "featured": false,
+    "ratingAverage": 4.5,
+    "status": "active",
+    "user": "68279d5615b56960ee1bd4aa",
+    "followingUser": [
+      "68279d5615b56960ee1bd4ad",
+      "68279d5615b56960ee1bd4b1",
+      "68279d5615b56960ee1bd4af"
+    ],
+    "images": [
+      {
+        "url": "https://picsum.photos/seed/style-corner-1/640/480",
+        "public_id": "picsum_style_corner_1"
+      },
+      {
+        "url": "https://picsum.photos/seed/style-corner-2/640/480",
+        "public_id": "picsum_style_corner_2"
+      }
+    ],
+    "imageCover": {
+      "url": "https://picsum.photos/seed/style-corner-cover/1200/400",
+      "public_id": "picsum_style_corner_cover"
+    },
+    "defaultReturnPolicy": "Return in 30 days",
+    "defaultShippingService": "International Delivery",
+    "defaultShippingFeePerItem": 4.0,
+    "defaultShippingFeeForAdditionalItem": 2.0,
+    "defaultShippingFeePerKg": 2.5,
+    "defaultShippingFeeFixed": 8.0,
+    "defaultDeliveryTimeMin": 7,
+    "defaultDeliveryTimeMax": 31
+  },
+  {
+    "name": "Home Essentials",
+    "slug": "home-essentials",
+    "description": "High-quality furniture, decor, and kitchenware for every home.",
+    "email": "support@homeessentials.example.com",
+    "phone": "+1234567812",
+    "featured": true,
+    "ratingAverage": 4.7,
+    "status": "pending",
+    "user": "68279d5615b56960ee1bd4ac",
+    "followingUser": [
+      "68279d5615b56960ee1bd4ad",
+      "68279d5615b56960ee1bd4b0",
+      "68279d5615b56960ee1bd4af"
+    ],
+    "images": [
+      {
+        "url": "https://picsum.photos/seed/home-essentials-1/640/480",
+        "public_id": "picsum_home_essentials_1"
+      },
+      {
+        "url": "https://picsum.photos/seed/home-essentials-2/640/480",
+        "public_id": "picsum_home_essentials_2"
+      }
+    ],
+    "imageCover": {
+      "url": "https://picsum.photos/seed/home-essentials-cover/1200/400",
+      "public_id": "picsum_home_essentials_cover"
+    },
+    "defaultReturnPolicy": "Return in 30 days",
+    "defaultShippingService": "International Delivery",
+    "defaultShippingFeePerItem": 6.0,
+    "defaultShippingFeeForAdditionalItem": 3.0,
+    "defaultShippingFeePerKg": 4.0,
+    "defaultShippingFeeFixed": 12.0,
+    "defaultDeliveryTimeMin": 7,
+    "defaultDeliveryTimeMax": 31
+  },
+  {
+    "name": "Digital World",
+    "slug": "digital-world",
+    "description": "Latest software, video games, and digital downloads at great prices.",
+    "email": "info@digitalworld.example.com",
+    "phone": "+1234567813",
+    "featured": false,
+    "ratingAverage": 4.3,
+    "status": "active",
+    "user": "68279d5615b56960ee1bd4a9",
+    "followingUser": [
+      "68279d5615b56960ee1bd4b1",
+      "68279d5615b56960ee1bd4b0",
+      "68279d5615b56960ee1bd4af"
+    ],
+    "images": [
+      {
+        "url": "https://picsum.photos/seed/digital-world-1/640/480",
+        "public_id": "picsum_digital_world_1"
+      },
+      {
+        "url": "https://picsum.photos/seed/digital-world-2/640/480",
+        "public_id": "picsum_digital_world_2"
+      }
+    ],
+    "imageCover": {
+      "url": "https://picsum.photos/seed/digital-world-cover/1200/400",
+      "public_id": "picsum_digital_world_cover"
+    },
+    "defaultReturnPolicy": "Return in 30 days",
+    "defaultShippingService": "International Delivery",
+    "defaultShippingFeePerItem": 3.0,
+    "defaultShippingFeeForAdditionalItem": 1.5,
+    "defaultShippingFeePerKg": 2.0,
+    "defaultShippingFeeFixed": 7.0,
+    "defaultDeliveryTimeMin": 7,
+    "defaultDeliveryTimeMax": 31
+  }
+]

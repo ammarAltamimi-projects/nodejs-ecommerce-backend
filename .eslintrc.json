@@ -1,0 +1,27 @@
+
+{
+  "extends": [
+    "airbnb",                    // Extends Airbnb's JavaScript style guide
+    "prettier",                   // Integrates Prettier for consistent code formatting
+    "plugin:node/recommended"     // Includes Node.js-specific linting rules
+  ],
+  "plugins": [
+    "prettier"                    // Integrates Prettier plugin to enforce code formatting rules
+  ],
+  "rules": {
+    "spaced-comment": "off",       // Disables the rule enforcing spaces after comment tags
+    "no-console": "off",           // Allows console statements (e.g., for debugging)
+    "consistent-return": "off",    // Disables the rule that enforces consistent return statements
+    "func-names": "off",           // Allows unnamed functions
+    "object-shorthand": "off",     // Disables shorthand object property syntax enforcement
+    "no-process-exit": "off",      // Allows process.exit() for shutting down the application
+    "no-param-reassign": "off",    // Allows reassignment of parameters (e.g., modifying req.body)
+    "no-return-await": "off",      // Disables the rule enforcing `return await` style consistency
+    "no-underscore-dangle": "off", // Disables the rule preventing the use of underscores in variable names
+    "class-methods-use-this": "off", // Disables the rule enforcing the use of 'this' in class methods
+    "no-undef": "error",           // Ensures all variables are defined
+    "node/no-unsupported-features/es-syntax": "off", // Allows using ES6 features in Node.js
+    "prefer-destructuring": ["warn", { "object": true, "array": false }], // Encourages object destructuring, but not arrays
+    "no-unused-vars": ["warn", { "argsIgnorePattern": "req|res|next|val" }] // Warns about unused variables, excluding common Express.js middleware arguments
+  }
+}

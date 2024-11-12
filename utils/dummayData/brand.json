@@ -1,0 +1,212 @@
+[
+  {
+    "name": "TechGiant",
+    "slug": "techgiant",
+    "category": "682795eadd2629414e6790ec",
+    "subCategories": [
+      "6827987f5f75b094d8b9f799",
+      "6827987f5f75b094d8b9f79a",
+      "6827987f5f75b094d8b9f79b"
+    ],
+    "featured": true,
+    "image": {
+      "url": "https://picsum.photos/seed/techgiant/320/240",
+      "public_id": "picsum_techgiant"
+    }
+  },
+  {
+    "name": "DigitalPro",
+    "slug": "digitalpro",
+    "category": "682795eadd2629414e6790ec",
+    "subCategories": [
+      "6827987f5f75b094d8b9f799",
+      "6827987f5f75b094d8b9f79a",
+      "6827987f5f75b094d8b9f79b"
+    ],
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/digitalpro/320/240",
+      "public_id": "picsum_digitalpro"
+    }
+  },
+  {
+    "name": "GadgetWorld",
+    "slug": "gadgetworld",
+    "category": "682795eadd2629414e6790ec",
+    "subCategories": [
+      "6827987f5f75b094d8b9f799",
+      "6827987f5f75b094d8b9f79a",
+      "6827987f5f75b094d8b9f79b"
+    ],
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/gadgetworld/320/240",
+      "public_id": "picsum_gadgetworld"
+    }
+  },
+  {
+    "name": "CameraKing",
+    "slug": "cameraking",
+    "category": "682795eadd2629414e6790ec",
+    "subCategories": [
+      "6827987f5f75b094d8b9f799",
+      "6827987f5f75b094d8b9f79a",
+      "6827987f5f75b094d8b9f79b"
+    ],
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/cameraking/320/240",
+      "public_id": "picsum_cameraking"
+    }
+  },
+  {
+    "name": "PhoneHub",
+    "slug": "phonehub",
+    "category": "682795eadd2629414e6790ec",
+    "subCategories": [
+      "6827987f5f75b094d8b9f799",
+      "6827987f5f75b094d8b9f79a",
+      "6827987f5f75b094d8b9f79b"
+    ],
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/phonehub/320/240",
+      "public_id": "picsum_phonehub"
+    }
+  },
+  {
+    "name": "UrbanStyle",
+    "slug": "urbanstyle",
+    "category": "682795eadd2629414e6790ed",
+    "subCategories": [
+      "6827987f5f75b094d8b9f79c",
+      "6827987f5f75b094d8b9f79d",
+      "6827987f5f75b094d8b9f79e"
+    ],
+    "featured": true,
+    "image": {
+      "url": "https://picsum.photos/seed/urbanstyle/320/240",
+      "public_id": "picsum_urbanstyle"
+    }
+  },
+  {
+    "name": "ChicWear",
+    "slug": "chicwear",
+    "category": "682795eadd2629414e6790ed",
+    "subCategories": [
+      "6827987f5f75b094d8b9f79c",
+      "6827987f5f75b094d8b9f79d",
+      "6827987f5f75b094d8b9f79e"
+    ],
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/chicwear/320/240",
+      "public_id": "picsum_chicwear"
+    }
+  },
+  {
+    "name": "StylePoint",
+    "slug": "stylepoint",
+    "category": "682795eadd2629414e6790ed",
+    "subCategories": [
+      "6827987f5f75b094d8b9f79c",
+      "6827987f5f75b094d8b9f79d",
+      "6827987f5f75b094d8b9f79e"
+    ],
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/stylepoint/320/240",
+      "public_id": "picsum_stylepoint"
+    }
+  },
+  {
+    "name": "KiddoWear",
+    "slug": "kiddowear",
+    "category": "682795eadd2629414e6790ed",
+    "subCategories": [
+      "6827987f5f75b094d8b9f79c",
+      "6827987f5f75b094d8b9f79d",
+      "6827987f5f75b094d8b9f79e"
+    ],
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/kiddowear/320/240",
+      "public_id": "picsum_kiddowear"
+    }
+  },
+  {
+    "name": "HomeEssence",
+    "slug": "homeessence",
+    "category": "682795eadd2629414e6790ee",
+    "subCategories": [
+      "6827987f5f75b094d8b9f79f",
+      "6827987f5f75b094d8b9f7a0",
+      "6827987f5f75b094d8b9f7a1"
+    ],
+    "featured": true,
+    "image": {
+      "url": "https://picsum.photos/seed/homeessence/320/240",
+      "public_id": "picsum_homeessence"
+    }
+  },
+  {
+    "name": "KitchenPro",
+    "slug": "kitchenpro",
+    "category": "682795eadd2629414e6790ee",
+    "subCategories": [
+      "6827987f5f75b094d8b9f79f",
+      "6827987f5f75b094d8b9f7a0",
+      "6827987f5f75b094d8b9f7a1"
+    ],
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/kitchenpro/320/240",
+      "public_id": "picsum_kitchenpro"
+    }
+  },
+  {
+    "name": "DecoArt",
+    "slug": "decoart",
+    "category": "682795eadd2629414e6790ee",
+    "subCategories": [
+      "6827987f5f75b094d8b9f79f",
+      "6827987f5f75b094d8b9f7a0",
+      "6827987f5f75b094d8b9f7a1"
+    ],
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/decoart/320/240",
+      "public_id": "picsum_decoart"
+    }
+  },
+  {
+    "name": "ComfortKitchen",
+    "slug": "comfortkitchen",
+    "category": "682795eadd2629414e6790ee",
+    "subCategories": [
+      "6827987f5f75b094d8b9f79f",
+      "6827987f5f75b094d8b9f7a0",
+      "6827987f5f75b094d8b9f7a1"
+    ],
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/comfortkitchen/320/240",
+      "public_id": "picsum_comfortkitchen"
+    }
+  },
+  {
+    "name": "EliteHome",
+    "slug": "elitehome",
+    "category": "682795eadd2629414e6790ee",
+    "subCategories": [
+      "6827987f5f75b094d8b9f79f",
+      "6827987f5f75b094d8b9f7a0",
+      "6827987f5f75b094d8b9f7a1"
+    ],
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/elitehome/320/240",
+      "public_id": "picsum_elitehome"
+    }
+  }
+]

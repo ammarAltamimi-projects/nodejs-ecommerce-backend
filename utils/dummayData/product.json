@@ -1,0 +1,1475 @@
+[
+  {
+    "subcategoryType": "laptop",
+    "title": "TechGiant UltraBook X",
+    "slug": "techgiant-ultrabook-x",
+    "description": "Sleek and powerful ultrabook for professionals.",
+    "specifications": [
+      { "key": "Battery Life", "value": "Up to 12 hours" },
+      { "key": "Display", "value": "13.3 inch Retina" },
+      { "key": "Weight", "value": "1.2 kg" }
+    ],
+    "questions": [
+      { "question": "Does it support touch screen?", "answers": "No" },
+      { "question": "What is the warranty period?", "answers": "2 years" }
+    ],
+    "shippingFeeMethod": "item",
+    "freeShippingForAllCountries": true,
+    "freeShippingForSpecificCountries": [],
+    "sold": 0,
+    "returns": 0,
+    "view": 0,
+    "ratingAverage": 4.7,
+    "ratingQuality": 0,
+    "category": "682795eadd2629414e6790ec",
+    "offerTag": "682830f4b8ab262aa254cd1d",
+    "isSale": true,
+    "subCategories": ["6827987f5f75b094d8b9f799"],
+    "brand": "68279aaa175c3199a2ad325b",
+    "store": "68282edbaf241330b5f16a50",
+    "variant": [
+      {
+        "defaultVariant": false,
+        "variantTitle": "Silver 256GB",
+        "variantSlug": "silver-25442326gb",
+        "variantDescription": "Silver ultrabook with 256GB SSD and 8GB RAM.",
+        "variantSpecifications": [
+          { "key": "Color", "value": "Silver" },
+          { "key": "Storage", "value": "256GB SSD" },
+          { "key": "RAM", "value": "8GB" }
+        ],
+        "keywords": ["silver", "256gb", "ultrabook"],
+        "sku": "TG-UBX-S-25262",
+        "price": 999,
+        "originalPrice": 1099,
+        "discountPercentage": 10,
+        "salePrice": 899.1,
+        "weight": 1200,
+        "stockQuantity": 50,
+        "ReservedStock": 0,
+        "VariantSold": 0,
+        "VariantReturns": 0,
+        "imageCover": {
+          "url": "https://picsum.photos/seed/1_1/200/300",
+          "public_id": "1_1_cover"
+        },
+        "images": [
+          {
+            "url": "https://picsum.photos/seed/1_1_1/200/300",
+            "public_id": "1_1_1"
+          },
+          {
+            "url": "https://picsum.photos/seed/1_1_2/200/300",
+            "public_id": "1_1_2"
+          }
+        ],
+        "color": "Silver",
+        "ramSize": "8GB",
+        "processorBrand": "Intel",
+        "processorType": "Core i5",
+        "hardDiskCapacity": "256GB SSD",
+        "storageType": "SSD",
+        "operatingSystem": "Windows 11",
+        "screenSize": "13.3 inch"
+      },
+      {
+        "defaultVariant": false,
+        "variantTitle": "Space Gray 512GB",
+        "variantSlug": "spacegray-514322gb",
+        "variantDescription": "Space Gray ultrabook with 512GB SSD and 16GB RAM.",
+        "variantSpecifications": [
+          { "key": "Color", "value": "Space Gray" },
+          { "key": "Storage", "value": "512GB SSD" },
+          { "key": "RAM", "value": "16GB" }
+        ],
+        "keywords": ["spacegray", "512gb", "ultrabook"],
+        "sku": "TG-UBX-SG-5212",
+        "price": 1299,
+        "originalPrice": 1399,
+        "discountPercentage": 10,
+        "salePrice": 1169.1,
+        "weight": 1200,
+        "stockQuantity": 30,
+        "ReservedStock": 0,
+        "VariantSold": 0,
+        "VariantReturns": 0,
+        "imageCover": {
+          "url": "https://picsum.photos/seed/1_2/200/300",
+          "public_id": "1_2_cover"
+        },
+        "images": [
+          {
+            "url": "https://picsum.photos/seed/1_2_1/200/300",
+            "public_id": "1_2_1"
+          },
+          {
+            "url": "https://picsum.photos/seed/1_2_2/200/300",
+            "public_id": "1_2_2"
+          }
+        ],
+        "color": "Space Gray",
+        "ramSize": "16GB",
+        "processorBrand": "Intel",
+        "processorType": "Core i7",
+        "hardDiskCapacity": "512GB SSD",
+        "storageType": "SSD",
+        "operatingSystem": "Windows 11",
+        "screenSize": "13.3 inch"
+      }
+    ]
+  },
+  {
+    "subcategoryType": "laptop",
+    "title": "DigitalPro Gaming Z",
+    "slug": "digitalpro-gaming-z",
+    "description": "High-performance gaming laptop with RGB lighting.",
+    "specifications": [
+      { "key": "Battery Life", "value": "Up to 6 hours" },
+      { "key": "Display", "value": "15.6 inch FHD 144Hz" },
+      { "key": "Graphics", "value": "NVIDIA RTX 3060" }
+    ],
+    "questions": [
+      { "question": "Does it have RGB keyboard?", "answers": "Yes" }
+    ],
+    "shippingFeeMethod": "weight",
+    "freeShippingForAllCountries": false,
+    "freeShippingForSpecificCountries": [
+      "67f5d51b4ee5b9e79a729c6d",
+      "67f5d51b4ee5b9e79a729c6c"
+    ],
+    "sold": 0,
+    "returns": 0,
+    "view": 0,
+    "ratingAverage": 4.5,
+    "ratingQuality": 0,
+    "category": "682795eadd2629414e6790ec",
+    "offerTag": null,
+    "isSale": false,
+    "subCategories": ["6827987f5f75b094d8b9f799"],
+    "brand": "68279aaa175c3199a2ad325c",
+    "store": "68282edbaf241330b5f16a59",
+    "variant": [
+      {
+        "defaultVariant": false,
+        "variantTitle": "Black 1TB",
+        "variantSlug": "black-1423tb",
+        "variantDescription": "Black gaming laptop with 1TB SSD and 16GB RAM.",
+        "variantSpecifications": [
+          { "key": "Color", "value": "Black" },
+          { "key": "Storage", "value": "1TB SSD" },
+          { "key": "RAM", "value": "16GB" }
+        ],
+        "keywords": ["black", "1tb", "gaming"],
+        "sku": "DP-GZ-B-13TB",
+        "price": 1499,
+        "originalPrice": 1499,
+        "discountPercentage": 0,
+        "salePrice": 1499,
+        "weight": 2200,
+        "stockQuantity": 40,
+        "ReservedStock": 0,
+        "VariantSold": 0,
+        "VariantReturns": 0,
+        "imageCover": {
+          "url": "https://picsum.photos/seed/2_1/200/300",
+          "public_id": "2_1_cover"
+        },
+        "images": [
+          {
+            "url": "https://picsum.photos/seed/2_1_1/200/300",
+            "public_id": "2_1_1"
+          }
+        ],
+        "color": "Black",
+        "ramSize": "16GB",
+        "processorBrand": "AMD",
+        "processorType": "Ryzen 7",
+        "hardDiskCapacity": "1TB SSD",
+        "storageType": "SSD",
+        "operatingSystem": "Windows 11",
+        "screenSize": "15.6 inch"
+      }
+    ]
+  },
+  {
+    "subcategoryType": "laptop",
+    "title": "GadgetWorld Pro Y",
+    "slug": "gadgetworld-pro-y",
+    "description": "Versatile laptop for work and entertainment.",
+    "specifications": [
+      { "key": "Battery Life", "value": "Up to 10 hours" },
+      { "key": "Display", "value": "14 inch FHD" },
+      { "key": "Graphics", "value": "Intel Iris Xe" }
+    ],
+    "questions": [
+      { "question": "Is it suitable for video editing?", "answers": "Yes" },
+      { "question": "Does it have a backlit keyboard?", "answers": "Yes" }
+    ],
+    "shippingFeeMethod": "fixed",
+    "freeShippingForAllCountries": true,
+    "freeShippingForSpecificCountries": [],
+    "sold": 0,
+    "returns": 0,
+    "view": 0,
+    "ratingAverage": 4.6,
+    "ratingQuality": 0,
+    "category": "682795eadd2629414e6790ec",
+    "offerTag": "682830f4b8ab262aa254cd1e",
+    "isSale": true,
+    "subCategories": ["6827987f5f75b094d8b9f799"],
+    "brand": "68279aaa175c3199a2ad325d",
+    "store": "68282edbaf241330b5f16a50",
+    "variant": [
+      {
+        "defaultVariant": false,
+        "variantTitle": "Blue 512GB",
+        "variantSlug": "blue-514322gb",
+        "variantDescription": "Blue laptop with 512GB SSD and 16GB RAM.",
+        "variantSpecifications": [
+          { "key": "Color", "value": "Blue" },
+          { "key": "Storage", "value": "512GB SSD" },
+          { "key": "RAM", "value": "16GB" }
+        ],
+        "keywords": ["blue", "512gb", "pro"],
+        "sku": "GW-PY-B-5122",
+        "price": 899,
+        "originalPrice": 999,
+        "discountPercentage": 15,
+        "salePrice": 764.15,
+        "weight": 1400,
+        "stockQuantity": 60,
+        "ReservedStock": 0,
+        "VariantSold": 0,
+        "VariantReturns": 0,
+        "imageCover": {
+          "url": "https://picsum.photos/seed/3_1/200/300",
+          "public_id": "3_1_cover"
+        },
+        "images": [
+          {
+            "url": "https://picsum.photos/seed/3_1_1/200/300",
+            "public_id": "3_1_1"
+          },
+          {
+            "url": "https://picsum.photos/seed/3_1_2/200/300",
+            "public_id": "3_1_2"
+          }
+        ],
+        "color": "Blue",
+        "ramSize": "16GB",
+        "processorBrand": "Intel",
+        "processorType": "Core i5",
+        "hardDiskCapacity": "512GB SSD",
+        "storageType": "SSD",
+        "operatingSystem": "Windows 11",
+        "screenSize": "14 inch"
+      },
+      {
+        "defaultVariant": false,
+        "variantTitle": "Silver 1TB",
+        "variantSlug": "silver-1534tb",
+        "variantDescription": "Silver laptop with 1TB SSD and 16GB RAM.",
+        "variantSpecifications": [
+          { "key": "Color", "value": "Silver" },
+          { "key": "Storage", "value": "1TB SSD" },
+          { "key": "RAM", "value": "16GB" }
+        ],
+        "keywords": ["silver", "1tb", "pro"],
+        "sku": "GW-PY-S-13TB",
+        "price": 1099,
+        "originalPrice": 1199,
+        "discountPercentage": 15,
+        "salePrice": 934.15,
+        "weight": 1400,
+        "stockQuantity": 40,
+        "ReservedStock": 0,
+        "VariantSold": 0,
+        "VariantReturns": 0,
+        "imageCover": {
+          "url": "https://picsum.photos/seed/3_2/200/300",
+          "public_id": "3_2_cover"
+        },
+        "images": [
+          {
+            "url": "https://picsum.photos/seed/3_2_1/200/300",
+            "public_id": "3_2_1"
+          },
+          {
+            "url": "https://picsum.photos/seed/3_2_2/200/300",
+            "public_id": "3_2_2"
+          }
+        ],
+        "color": "Silver",
+        "ramSize": "16GB",
+        "processorBrand": "Intel",
+        "processorType": "Core i7",
+        "hardDiskCapacity": "1TB SSD",
+        "storageType": "SSD",
+        "operatingSystem": "Windows 11",
+        "screenSize": "14 inch"
+      }
+    ]
+  },
+  {
+    "subcategoryType": "laptop",
+    "title": "TechGiant WorkStation W",
+    "slug": "techgiant-workstation-w",
+    "description": "Powerful workstation for heavy-duty tasks.",
+    "specifications": [
+      { "key": "Battery Life", "value": "Up to 8 hours" },
+      { "key": "Display", "value": "17.3 inch 4K" },
+      { "key": "Graphics", "value": "NVIDIA RTX 3080" }
+    ],
+    "questions": [
+      { "question": "Is it suitable for 3D rendering?", "answers": "Yes" },
+      { "question": "Does it support dual storage?", "answers": "Yes" },
+      { "question": "What is the weight?", "answers": "2.8 kg" }
+    ],
+    "shippingFeeMethod": "item",
+    "freeShippingForAllCountries": false,
+    "freeShippingForSpecificCountries": [
+      "67f5d51b4ee5b9e79a729baf",
+      "67f5d51b4ee5b9e79a729b96"
+    ],
+    "sold": 0,
+    "returns": 0,
+    "view": 0,
+    "ratingAverage": 4.9,
+    "ratingQuality": 0,
+    "category": "682795eadd2629414e6790ec",
+    "offerTag": "682830f4b8ab262aa254cd1f",
+    "isSale": true,
+    "subCategories": ["6827987f5f75b094d8b9f799"],
+    "brand": "68279aaa175c3199a2ad325b",
+    "store": "68282edbaf241330b5f16a59",
+    "variant": [
+      {
+        "defaultVariant": false,
+        "variantTitle": "Black 2TB",
+        "variantSlug": "black-2534tb",
+        "variantDescription": "Black workstation with 2TB SSD and 32GB RAM.",
+        "variantSpecifications": [
+          { "key": "Color", "value": "Black" },
+          { "key": "Storage", "value": "2TB SSD" },
+          { "key": "RAM", "value": "32GB" }
+        ],
+        "keywords": ["black", "2tb", "workstation"],
+        "sku": "TG-WSW-B-52TB",
+        "price": 2499,
+        "originalPrice": 2799,
+        "discountPercentage": 15,
+        "salePrice": 2124.15,
+        "weight": 2800,
+        "stockQuantity": 20,
+        "ReservedStock": 0,
+        "VariantSold": 0,
+        "VariantReturns": 0,
+        "imageCover": {
+          "url": "https://picsum.photos/seed/4_1/200/300",
+          "public_id": "4_1_cover"
+        },
+        "images": [
+          {
+            "url": "https://picsum.photos/seed/4_1_1/200/300",
+            "public_id": "4_1_1"
+          },
+          {
+            "url": "https://picsum.photos/seed/4_1_2/200/300",
+            "public_id": "4_1_2"
+          }
+        ],
+        "color": "Black",
+        "ramSize": "32GB",
+        "processorBrand": "Intel",
+        "processorType": "Core i9",
+        "hardDiskCapacity": "2TB SSD",
+        "storageType": "SSD",
+        "operatingSystem": "Windows 11 Pro",
+        "screenSize": "17.3 inch"
+      }
+    ]
+  },
+  {
+    "subcategoryType": "laptop",
+    "title": "DigitalPro Slim V",
+    "slug": "digitalpro-slim-v",
+    "description": "Lightweight laptop for everyday use.",
+    "specifications": [
+      { "key": "Battery Life", "value": "Up to 9 hours" },
+      { "key": "Display", "value": "13.3 inch FHD" }
+    ],
+    "questions": [
+      { "question": "Does it have a fingerprint sensor?", "answers": "Yes" }
+    ],
+    "shippingFeeMethod": "weight",
+    "freeShippingForAllCountries": true,
+    "freeShippingForSpecificCountries": [],
+    "sold": 0,
+    "returns": 0,
+    "view": 0,
+    "ratingAverage": 4.3,
+    "ratingQuality": 0,
+    "category": "682795eadd2629414e6790ec",
+    "offerTag": null,
+    "isSale": false,
+    "subCategories": ["6827987f5f75b094d8b9f799"],
+    "brand": "68279aaa175c3199a2ad325c",
+    "store": "68282edbaf241330b5f16a53",
+    "variant": [
+      {
+        "defaultVariant": false,
+        "variantTitle": "Silver 256GB",
+        "variantSlug": "silver-256534gb",
+        "variantDescription": "Silver slim laptop with 256GB SSD and 8GB RAM.",
+        "variantSpecifications": [
+          { "key": "Color", "value": "Silver" },
+          { "key": "Storage", "value": "256GB SSD" }
+        ],
+        "keywords": ["silver", "256gb", "slim"],
+        "sku": "DP-SV-S-2536",
+        "price": 699,
+        "originalPrice": 699,
+        "discountPercentage": 0,
+        "salePrice": 699,
+        "weight": 1100,
+        "stockQuantity": 80,
+        "ReservedStock": 0,
+        "VariantSold": 0,
+        "VariantReturns": 0,
+        "imageCover": {
+          "url": "https://picsum.photos/seed/5_1/200/300",
+          "public_id": "5_1_cover"
+        },
+        "images": [],
+        "color": "Silver",
+        "ramSize": "8GB",
+        "processorBrand": "Intel",
+        "processorType": "Core i3",
+        "hardDiskCapacity": "256GB SSD",
+        "storageType": "SSD",
+        "operatingSystem": "Windows 11",
+        "screenSize": "13.3 inch"
+      },
+      {
+        "defaultVariant": false,
+        "variantTitle": "Rose Gold 512GB",
+        "variantSlug": "rosegold-512534b",
+        "variantDescription": "Rose Gold slim laptop with 512GB SSD and 8GB RAM.",
+        "variantSpecifications": [
+          { "key": "Color", "value": "Rose Gold" },
+          { "key": "Storage", "value": "512GB SSD" }
+        ],
+        "keywords": ["rosegold", "512gb", "slim"],
+        "sku": "DP-SV-RG-5162",
+        "price": 799,
+        "originalPrice": 799,
+        "discountPercentage": 0,
+        "salePrice": 799,
+        "weight": 1100,
+        "stockQuantity": 60,
+        "ReservedStock": 0,
+        "VariantSold": 0,
+        "VariantReturns": 0,
+        "imageCover": {
+          "url": "https://picsum.photos/seed/5_2/200/300",
+          "public_id": "5_2_cover"
+        },
+        "images": [],
+        "color": "Rose Gold",
+        "ramSize": "8GB",
+        "processorBrand": "Intel",
+        "processorType": "Core i5",
+        "hardDiskCapacity": "512GB SSD",
+        "storageType": "SSD",
+        "operatingSystem": "Windows 11",
+        "screenSize": "13.3 inch"
+      }
+    ]
+  },
+  {
+    "subcategoryType": "laptop",
+    "title": "GadgetWorld Ultra U",
+    "slug": "gadgetworld-ultra-u",
+    "description": "Premium ultrabook with long battery life.",
+    "specifications": [
+      { "key": "Battery Life", "value": "Up to 14 hours" },
+      { "key": "Display", "value": "14 inch 2K" }
+    ],
+    "questions": [
+      { "question": "Does it support fast charging?", "answers": "Yes" },
+      { "question": "Is it good for coding?", "answers": "Yes" }
+    ],
+    "shippingFeeMethod": "item",
+    "freeShippingForAllCountries": true,
+    "freeShippingForSpecificCountries": [],
+    "sold": 0,
+    "returns": 0,
+    "view": 0,
+    "ratingAverage": 4.8,
+    "ratingQuality": 0,
+    "category": "682795eadd2629414e6790ec",
+    "offerTag": "682830f4b8ab262aa254cd1d",
+    "isSale": true,
+    "subCategories": ["6827987f5f75b094d8b9f799"],
+    "brand": "68279aaa175c3199a2ad325d",
+    "store": "68282edbaf241330b5f16a50",
+    "variant": [
+      {
+        "defaultVariant": false,
+        "variantTitle": "Gray 512GB",
+        "variantSlug": "gray-553412gb",
+        "variantDescription": "Gray ultrabook with 512GB SSD and 16GB RAM.",
+        "variantSpecifications": [
+          { "key": "Color", "value": "Gray" },
+          { "key": "Storage", "value": "512GB SSD" },
+          { "key": "RAM", "value": "16GB" }
+        ],
+        "keywords": ["gray", "512gb", "ultra"],
+        "sku": "GW-UU-G-5712",
+        "price": 1199,
+        "originalPrice": 1299,
+        "discountPercentage": 10,
+        "salePrice": 1079.1,
+        "weight": 1300,
+        "stockQuantity": 50,
+        "ReservedStock": 0,
+        "VariantSold": 0,
+        "VariantReturns": 0,
+        "imageCover": {
+          "url": "https://picsum.photos/seed/6_1/200/300",
+          "public_id": "6_1_cover"
+        },
+        "images": [
+          {
+            "url": "https://picsum.photos/seed/6_1_1/200/300",
+            "public_id": "6_1_1"
+          }
+        ],
+        "color": "Gray",
+        "ramSize": "16GB",
+        "processorBrand": "AMD",
+        "processorType": "Ryzen 5",
+        "hardDiskCapacity": "512GB SSD",
+        "storageType": "SSD",
+        "operatingSystem": "Windows 11",
+        "screenSize": "14 inch"
+      }
+    ]
+  },
+  {
+    "subcategoryType": "laptop",
+    "title": "TechGiant Gaming T",
+    "slug": "techgiant-gaming-t",
+    "description": "Top-tier gaming laptop with advanced cooling.",
+    "specifications": [
+      { "key": "Battery Life", "value": "Up to 5 hours" },
+      { "key": "Display", "value": "16 inch QHD 165Hz" },
+      { "key": "Graphics", "value": "NVIDIA RTX 3070" }
+    ],
+    "questions": [
+      { "question": "Does it support VR gaming?", "answers": "Yes" }
+    ],
+    "shippingFeeMethod": "fixed",
+    "freeShippingForAllCountries": false,
+    "freeShippingForSpecificCountries": ["67f5d51b4ee5b9e79a729c6d"],
+    "sold": 0,
+    "returns": 0,
+    "view": 0,
+    "ratingAverage": 4.7,
+    "ratingQuality": 0,
+    "category": "682795eadd2629414e6790ec",
+    "offerTag": null,
+    "isSale": false,
+    "subCategories": ["6827987f5f75b094d8b9f799"],
+    "brand": "68279aaa175c3199a2ad325b",
+    "store": "68282edbaf241330b5f16a59",
+    "variant": [
+      {
+        "defaultVariant": false,
+        "variantTitle": "Black 1TB",
+        "variantSlug": "black-1654tb",
+        "variantDescription": "Black gaming laptop with 1TB SSD and 32GB RAM.",
+        "variantSpecifications": [
+          { "key": "Color", "value": "Black" },
+          { "key": "Storage", "value": "1TB SSD" },
+          { "key": "RAM", "value": "32GB" }
+        ],
+        "keywords": ["black", "1tb", "gaming"],
+        "sku": "TG-GT-B-18TB",
+        "price": 1999,
+        "originalPrice": 1999,
+        "discountPercentage": 0,
+        "salePrice": 1999,
+        "weight": 2500,
+        "stockQuantity": 30,
+        "ReservedStock": 0,
+        "VariantSold": 0,
+        "VariantReturns": 0,
+        "imageCover": {
+          "url": "https://picsum.photos/seed/7_1/200/300",
+          "public_id": "7_1_cover"
+        },
+        "images": [
+          {
+            "url": "https://picsum.photos/seed/7_1_1/200/300",
+            "public_id": "7_1_1"
+          }
+        ],
+        "color": "Black",
+        "ramSize": "32GB",
+        "processorBrand": "Intel",
+        "processorType": "Core i7",
+        "hardDiskCapacity": "1TB SSD",
+        "storageType": "SSD",
+        "operatingSystem": "Windows 11",
+        "screenSize": "16 inch"
+      }
+    ]
+  },
+  {
+    "subcategoryType": "laptop",
+    "title": "DigitalPro Budget S",
+    "slug": "digitalpro-budget-s",
+    "description": "Affordable laptop for students and basic tasks.",
+    "specifications": [
+      { "key": "Battery Life", "value": "Up to 7 hours" },
+      { "key": "Display", "value": "15.6 inch HD" }
+    ],
+    "questions": [],
+    "shippingFeeMethod": "item",
+    "freeShippingForAllCountries": true,
+    "freeShippingForSpecificCountries": [],
+    "sold": 0,
+    "returns": 0,
+    "view": 0,
+    "ratingAverage": 4.0,
+    "ratingQuality": 0,
+    "category": "682795eadd2629414e6790ec",
+    "offerTag": "682830f4b8ab262aa254cd1e",
+    "isSale": true,
+    "subCategories": ["6827987f5f75b094d8b9f799"],
+    "brand": "68279aaa175c3199a2ad325c",
+    "store": "68282edbaf241330b5f16a53",
+    "variant": [
+      {
+        "defaultVariant": false,
+        "variantTitle": "Gray 256GB",
+        "variantSlug": "gray-253456gb",
+        "variantDescription": "Gray budget laptop with 256GB SSD and 4GB RAM.",
+        "variantSpecifications": [
+          { "key": "Color", "value": "Gray" },
+          { "key": "Storage", "value": "256GB SSD" }
+        ],
+        "keywords": ["gray", "256gb", "budget"],
+        "sku": "DP-BS-G-2564",
+        "price": 399,
+        "originalPrice": 449,
+        "discountPercentage": 15,
+        "salePrice": 339.15,
+        "weight": 1800,
+        "stockQuantity": 100,
+        "ReservedStock": 0,
+        "VariantSold": 0,
+        "VariantReturns": 0,
+        "imageCover": {
+          "url": "https://picsum.photos/seed/8_1/200/300",
+          "public_id": "8_1_cover"
+        },
+        "images": [],
+        "color": "Gray",
+        "ramSize": "4GB",
+        "processorBrand": "Intel",
+        "processorType": "Celeron",
+        "hardDiskCapacity": "256GB SSD",
+        "storageType": "SSD",
+        "operatingSystem": "Windows 11",
+        "screenSize": "15.6 inch"
+      }
+    ]
+  },
+  {
+    "subcategoryType": "laptop",
+    "title": "GadgetWorld Creator R",
+    "slug": "gadgetworld-creator-r",
+    "description": "Laptop designed for content creators.",
+    "specifications": [
+      { "key": "Battery Life", "value": "Up to 10 hours" },
+      { "key": "Display", "value": "15.6 inch 4K OLED" }
+    ],
+    "questions": [
+      { "question": "Is it good for photo editing?", "answers": "Yes" }
+    ],
+    "shippingFeeMethod": "weight",
+    "freeShippingForAllCountries": false,
+    "freeShippingForSpecificCountries": ["67f5d51b4ee5b9e79a729b96"],
+    "sold": 0,
+    "returns": 0,
+    "view": 0,
+    "ratingAverage": 4.8,
+    "ratingQuality": 0,
+    "category": "682795eadd2629414e6790ec",
+    "offerTag": null,
+    "isSale": false,
+    "subCategories": ["6827987f5f75b094d8b9f799"],
+    "brand": "68279aaa175c3199a2ad325d",
+    "store": "68282edbaf241330b5f16a50",
+    "variant": [
+      {
+        "defaultVariant": false,
+        "variantTitle": "Silver 1TB",
+        "variantSlug": "silver-53451tb",
+        "variantDescription": "Silver creator laptop with 1TB SSD and 16GB RAM.",
+        "variantSpecifications": [
+          { "key": "Color", "value": "Silver" },
+          { "key": "Storage", "value": "1TB SSD" }
+        ],
+        "keywords": ["silver", "1tb", "creator"],
+        "sku": "GW-CR-S-17TB",
+        "price": 1599,
+        "originalPrice": 1599,
+        "discountPercentage": 0,
+        "salePrice": 1599,
+        "weight": 1900,
+        "stockQuantity": 40,
+        "ReservedStock": 0,
+        "VariantSold": 0,
+        "VariantReturns": 0,
+        "imageCover": {
+          "url": "https://picsum.photos/seed/9_1/200/300",
+          "public_id": "9_1_cover"
+        },
+        "images": [],
+        "color": "Silver",
+        "ramSize": "16GB",
+        "processorBrand": "Intel",
+        "processorType": "Core i7",
+        "hardDiskCapacity": "1TB SSD",
+        "storageType": "SSD",
+        "operatingSystem": "Windows 11",
+        "screenSize": "15.6 inch"
+      }
+    ]
+  },
+  {
+    "subcategoryType": "laptop",
+    "title": "TechGiant Hybrid Q",
+    "slug": "techgiant-hybrid-q",
+    "description": "2-in-1 convertible laptop for versatility.",
+    "specifications": [
+      { "key": "Battery Life", "value": "Up to 11 hours" },
+      { "key": "Display", "value": "13.3 inch FHD Touch" }
+    ],
+    "questions": [
+      { "question": "Does it come with a stylus?", "answers": "Yes" },
+      { "question": "Is it good for note-taking?", "answers": "Yes" }
+    ],
+    "shippingFeeMethod": "fixed",
+    "freeShippingForAllCountries": true,
+    "freeShippingForSpecificCountries": [],
+    "sold": 0,
+    "returns": 0,
+    "view": 0,
+    "ratingAverage": 4.6,
+    "ratingQuality": 0,
+    "category": "682795eadd2629414e6790ec",
+    "offerTag": "682830f4b8ab262aa254cd1f",
+    "isSale": true,
+    "subCategories": ["6827987f5f75b094d8b9f799"],
+    "brand": "68279aaa175c3199a2ad325b",
+    "store": "68282edbaf241330b5f16a59",
+    "variant": [
+      {
+        "defaultVariant": false,
+        "variantTitle": "Blue 512GB",
+        "variantSlug": "blue-51253453gb",
+        "variantDescription": "Blue hybrid laptop with 512GB SSD and 8GB RAM.",
+        "variantSpecifications": [
+          { "key": "Color", "value": "Blue" },
+          { "key": "Storage", "value": "512GB SSD" }
+        ],
+        "keywords": ["blue", "512gb", "hybrid"],
+        "sku": "TG-HQ-B-5142",
+        "price": 999,
+        "originalPrice": 1099,
+        "discountPercentage": 10,
+        "salePrice": 899.1,
+        "weight": 1500,
+        "stockQuantity": 50,
+        "ReservedStock": 0,
+        "VariantSold": 0,
+        "VariantReturns": 0,
+        "imageCover": {
+          "url": "https://picsum.photos/seed/10_1/200/300",
+          "public_id": "10_1_cover"
+        },
+        "images": [],
+        "color": "Blue",
+        "ramSize": "8GB",
+        "processorBrand": "Intel",
+        "processorType": "Core i5",
+        "hardDiskCapacity": "512GB SSD",
+        "storageType": "SSD",
+        "operatingSystem": "Windows 11",
+        "screenSize": "13.3 inch"
+      },
+      {
+        "defaultVariant": false,
+        "variantTitle": "Silver 1TB",
+        "variantSlug": "silver-1534534tb",
+        "variantDescription": "Silver hybrid laptop with 1TB SSD and 16GB RAM.",
+        "variantSpecifications": [
+          { "key": "Color", "value": "Silver" },
+          { "key": "Storage", "value": "1TB SSD" }
+        ],
+        "keywords": ["silver", "1tb", "hybrid"],
+        "sku": "TG-HQ-S-14TB",
+        "price": 1299,
+        "originalPrice": 1399,
+        "discountPercentage": 10,
+        "salePrice": 1169.1,
+        "weight": 1500,
+        "stockQuantity": 30,
+        "ReservedStock": 0,
+        "VariantSold": 0,
+        "VariantReturns": 0,
+        "imageCover": {
+          "url": "https://picsum.photos/seed/10_2/200/300",
+          "public_id": "10_2_cover"
+        },
+        "images": [],
+        "color": "Silver",
+        "ramSize": "16GB",
+        "processorBrand": "Intel",
+        "processorType": "Core i7",
+        "hardDiskCapacity": "1TB SSD",
+        "storageType": "SSD",
+        "operatingSystem": "Windows 11",
+        "screenSize": "13.3 inch"
+      }
+    ]
+  },
+  {
+    "subcategoryType": "laptop",
+    "title": "DigitalPro Elite P",
+    "slug": "digitalpro-elite-p",
+    "description": "Premium laptop for business professionals.",
+    "specifications": [
+      { "key": "Battery Life", "value": "Up to 12 hours" },
+      { "key": "Display", "value": "14 inch 2K" }
+    ],
+    "questions": [
+      { "question": "Does it have a dedicated GPU?", "answers": "No" }
+    ],
+    "shippingFeeMethod": "item",
+    "freeShippingForAllCountries": false,
+    "freeShippingForSpecificCountries": ["67f5d51b4ee5b9e79a729c6c"],
+    "sold": 0,
+    "returns": 0,
+    "view": 0,
+    "ratingAverage": 4.7,
+    "ratingQuality": 0,
+    "category": "682795eadd2629414e6790ec",
+    "offerTag": null,
+    "isSale": false,
+    "subCategories": ["6827987f5f75b094d8b9f799"],
+    "brand": "68279aaa175c3199a2ad325c",
+    "store": "68282edbaf241330b5f16a50",
+    "variant": [
+      {
+        "defaultVariant": false,
+        "variantTitle": "Black 512GB",
+        "variantSlug": "black-5534512gb",
+        "variantDescription": "Black elite laptop with 512GB SSD and 16GB RAM.",
+        "variantSpecifications": [
+          { "key": "Color", "value": "Black" },
+          { "key": "Storage", "value": "512GB SSD" }
+        ],
+        "keywords": ["black", "512gb", "elite"],
+        "sku": "DP-EP-B-5312",
+        "price": 1199,
+        "originalPrice": 1199,
+        "discountPercentage": 0,
+        "salePrice": 1199,
+        "weight": 1400,
+        "stockQuantity": 40,
+        "ReservedStock": 0,
+        "VariantSold": 0,
+        "VariantReturns": 0,
+        "imageCover": {
+          "url": "https://picsum.photos/seed/11_1/200/300",
+          "public_id": "11_1_cover"
+        },
+        "images": [],
+        "color": "Black",
+        "ramSize": "16GB",
+        "processorBrand": "Intel",
+        "processorType": "Core i7",
+        "hardDiskCapacity": "512GB SSD",
+        "storageType": "SSD",
+        "operatingSystem": "Windows 11 Pro",
+        "screenSize": "14 inch"
+      }
+    ]
+  },
+  {
+    "subcategoryType": "laptop",
+    "title": "GadgetWorld Student O",
+    "slug": "gadgetworld-student-o",
+    "description": "Budget-friendly laptop for students.",
+    "specifications": [
+      { "key": "Battery Life", "value": "Up to 8 hours" },
+      { "key": "Display", "value": "14 inch HD" }
+    ],
+    "questions": [],
+    "shippingFeeMethod": "weight",
+    "freeShippingForAllCountries": true,
+    "freeShippingForSpecificCountries": [],
+    "sold": 0,
+    "returns": 0,
+    "view": 0,
+    "ratingAverage": 4.2,
+    "ratingQuality": 0,
+    "category": "682795eadd2629414e6790ec",
+    "offerTag": "682830f4b8ab262aa254cd1e",
+    "isSale": true,
+    "subCategories": ["6827987f5f75b094d8b9f799"],
+    "brand": "68279aaa175c3199a2ad325d",
+    "store": "68282edbaf241330b5f16a53",
+    "variant": [
+      {
+        "defaultVariant": false,
+        "variantTitle": "Silver 256GB",
+        "variantSlug": "silver-257566gb",
+        "variantDescription": "Silver student laptop with 256GB SSD and 8GB RAM.",
+        "variantSpecifications": [
+          { "key": "Color", "value": "Silver" },
+          { "key": "Storage", "value": "256GB SSD" }
+        ],
+        "keywords": ["silver", "256gb", "student"],
+        "sku": "GW-SO-S-25656",
+        "price": 499,
+        "originalPrice": 549,
+        "discountPercentage": 10,
+        "salePrice": 449.1,
+        "weight": 1600,
+        "stockQuantity": 80,
+        "ReservedStock": 0,
+        "VariantSold": 0,
+        "VariantReturns": 0,
+        "imageCover": {
+          "url": "https://picsum.photos/seed/12_1/200/300",
+          "public_id": "12_1_cover"
+        },
+        "images": [],
+        "color": "Silver",
+        "ramSize": "8GB",
+        "processorBrand": "Intel",
+        "processorType": "Core i3",
+        "hardDiskCapacity": "256GB SSD",
+        "storageType": "SSD",
+        "operatingSystem": "Windows 11",
+        "screenSize": "14 inch"
+      }
+    ]
+  },
+  {
+    "subcategoryType": "laptop",
+    "title": "TechGiant Pro N",
+    "slug": "techgiant-pro-n",
+    "description": "High-end laptop for professionals.",
+    "specifications": [
+      { "key": "Battery Life", "value": "Up to 10 hours" },
+      { "key": "Display", "value": "15.6 inch 4K" }
+    ],
+    "questions": [
+      { "question": "Does it have Thunderbolt ports?", "answers": "Yes" }
+    ],
+    "shippingFeeMethod": "fixed",
+    "freeShippingForAllCountries": false,
+    "freeShippingForSpecificCountries": ["67f5d51b4ee5b9e79a729baf"],
+    "sold": 0,
+    "returns": 0,
+    "view": 0,
+    "ratingAverage": 4.9,
+    "ratingQuality": 0,
+    "category": "682795eadd2629414e6790ec",
+    "offerTag": null,
+    "isSale": false,
+    "subCategories": ["6827987f5f75b094d8b9f799"],
+    "brand": "68279aaa175c3199a2ad325b",
+    "store": "68282edbaf241330b5f16a50",
+    "variant": [
+      {
+        "defaultVariant": false,
+        "variantTitle": "Black 1TB",
+        "variantSlug": "black-1756tb",
+        "variantDescription": "Black pro laptop with 1TB SSD and 16GB RAM.",
+        "variantSpecifications": [
+          { "key": "Color", "value": "Black" },
+          { "key": "Storage", "value": "1TB SSD" }
+        ],
+        "keywords": ["black", "1tb", "pro"],
+        "sku": "TG-PN-B-165TB",
+        "price": 1799,
+        "originalPrice": 1799,
+        "discountPercentage": 0,
+        "salePrice": 1799,
+        "weight": 2000,
+        "stockQuantity": 30,
+        "ReservedStock": 0,
+        "VariantSold": 0,
+        "VariantReturns": 0,
+        "imageCover": {
+          "url": "https://picsum.photos/seed/13_1/200/300",
+          "public_id": "13_1_cover"
+        },
+        "images": [],
+        "color": "Black",
+        "ramSize": "16GB",
+        "processorBrand": "Intel",
+        "processorType": "Core i7",
+        "hardDiskCapacity": "1TB SSD",
+        "storageType": "SSD",
+        "operatingSystem": "Windows 11 Pro",
+        "screenSize": "15.6 inch"
+      }
+    ]
+  },
+  {
+    "subcategoryType": "laptop",
+    "title": "DigitalPro Ultra M",
+    "slug": "digitalpro-ultra-m",
+    "description": "Ultra-slim laptop with premium design.",
+    "specifications": [
+      { "key": "Battery Life", "value": "Up to 13 hours" },
+      { "key": "Display", "value": "13.3 inch 2K" }
+    ],
+    "questions": [{ "question": "Does it support Wi-Fi 6?", "answers": "Yes" }],
+    "shippingFeeMethod": "item",
+    "freeShippingForAllCountries": true,
+    "freeShippingForSpecificCountries": [],
+    "sold": 0,
+    "returns": 0,
+    "view": 0,
+    "ratingAverage": 4.8,
+    "ratingQuality": 0,
+    "category": "682795eadd2629414e6790ec",
+    "offerTag": "682830f4b8ab262aa254cd1d",
+    "isSale": true,
+    "subCategories": ["6827987f5f75b094d8b9f799"],
+    "brand": "68279aaa175c3199a2ad325c",
+    "store": "68282edbaf241330b5f16a59",
+    "variant": [
+      {
+        "defaultVariant": false,
+        "variantTitle": "Silver 512GB",
+        "variantSlug": "silver-654512gb",
+        "variantDescription": "Silver ultra laptop with 512GB SSD and 16GB RAM.",
+        "variantSpecifications": [
+          { "key": "Color", "value": "Silver" },
+          { "key": "Storage", "value": "512GB SSD" }
+        ],
+        "keywords": ["silver", "512gb", "ultra"],
+        "sku": "DP-UM-S-516452",
+        "price": 1299,
+        "originalPrice": 1399,
+        "discountPercentage": 10,
+        "salePrice": 1169.1,
+        "weight": 1200,
+        "stockQuantity": 50,
+        "ReservedStock": 0,
+        "VariantSold": 0,
+        "VariantReturns": 0,
+        "imageCover": {
+          "url": "https://picsum.photos/seed/14_1/200/300",
+          "public_id": "14_1_cover"
+        },
+        "images": [],
+        "color": "Silver",
+        "ramSize": "16GB",
+        "processorBrand": "Intel",
+        "processorType": "Core i7",
+        "hardDiskCapacity": "512GB SSD",
+        "storageType": "SSD",
+        "operatingSystem": "Windows 11",
+        "screenSize": "13.3 inch"
+      }
+    ]
+  },
+  {
+    "subcategoryType": "laptop",
+    "title": "GadgetWorld Gaming L",
+    "slug": "gadgetworld-gaming-l",
+    "description": "High-performance gaming laptop with RGB.",
+    "specifications": [
+      { "key": "Battery Life", "value": "Up to 6 hours" },
+      { "key": "Display", "value": "15.6 inch FHD 144Hz" }
+    ],
+    "questions": [
+      { "question": "Does it have a cooling system?", "answers": "Yes" }
+    ],
+    "shippingFeeMethod": "weight",
+    "freeShippingForAllCountries": false,
+    "freeShippingForSpecificCountries": ["67f5d51b4ee5b9e79a729c6d"],
+    "sold": 0,
+    "returns": 0,
+    "view": 0,
+    "ratingAverage": 4.6,
+    "ratingQuality": 0,
+    "category": "682795eadd2629414e6790ec",
+    "offerTag": null,
+    "isSale": false,
+    "subCategories": ["6827987f5f75b094d8b9f799"],
+    "brand": "68279aaa175c3199a2ad325d",
+    "store": "68282edbaf241330b5f16a50",
+    "variant": [
+      {
+        "defaultVariant": false,
+        "variantTitle": "Black 1TB",
+        "variantSlug": "black-17567tb",
+        "variantDescription": "Black gaming laptop with 1TB SSD and 16GB RAM.",
+        "variantSpecifications": [
+          { "key": "Color", "value": "Black" },
+          { "key": "Storage", "value": "1TB SSD" }
+        ],
+        "keywords": ["black", "1tb", "gaming"],
+        "sku": "GW-GL-B-1645TB",
+        "price": 1499,
+        "originalPrice": 1499,
+        "discountPercentage": 0,
+        "salePrice": 1499,
+        "weight": 2200,
+        "stockQuantity": 40,
+        "ReservedStock": 0,
+        "VariantSold": 0,
+        "VariantReturns": 0,
+        "imageCover": {
+          "url": "https://picsum.photos/seed/15_1/200/300",
+          "public_id": "15_1_cover"
+        },
+        "images": [],
+        "color": "Black",
+        "ramSize": "16GB",
+        "processorBrand": "AMD",
+        "processorType": "Ryzen 7",
+        "hardDiskCapacity": "1TB SSD",
+        "storageType": "SSD",
+        "operatingSystem": "Windows 11",
+        "screenSize": "15.6 inch"
+      }
+    ]
+  },
+  {
+    "subcategoryType": "laptop",
+    "title": "TechGiant Slim K",
+    "slug": "techgiant-slim-k",
+    "description": "Ultra-slim laptop for portability.",
+    "specifications": [
+      { "key": "Battery Life", "value": "Up to 12 hours" },
+      { "key": "Display", "value": "13.3 inch FHD" }
+    ],
+    "questions": [
+      { "question": "Is it lightweight?", "answers": "Yes, 1.1 kg" }
+    ],
+    "shippingFeeMethod": "item",
+    "freeShippingForAllCountries": true,
+    "freeShippingForSpecificCountries": [],
+    "sold": 0,
+    "returns": 0,
+    "view": 0,
+    "ratingAverage": 4.5,
+    "ratingQuality": 0,
+    "category": "682795eadd2629414e6790ec",
+    "offerTag": "682830f4b8ab262aa254cd1f",
+    "isSale": true,
+    "subCategories": ["6827987f5f75b094d8b9f799"],
+    "brand": "68279aaa175c3199a2ad325b",
+    "store": "68282edbaf241330b5f16a59",
+    "variant": [
+      {
+        "defaultVariant": false,
+        "variantTitle": "Silver 256GB",
+        "variantSlug": "silver-2587686gb",
+        "variantDescription": "Silver slim laptop with 256GB SSD and 8GB RAM.",
+        "variantSpecifications": [
+          { "key": "Color", "value": "Silver" },
+          { "key": "Storage", "value": "256GB SSD" }
+        ],
+        "keywords": ["silver", "256gb", "slim"],
+        "sku": "TG-SK-S-256456",
+        "price": 799,
+        "originalPrice": 899,
+        "discountPercentage": 10,
+        "salePrice": 719.1,
+        "weight": 1100,
+        "stockQuantity": 60,
+        "ReservedStock": 0,
+        "VariantSold": 0,
+        "VariantReturns": 0,
+        "imageCover": {
+          "url": "https://picsum.photos/seed/16_1/200/300",
+          "public_id": "16_1_cover"
+        },
+        "images": [],
+        "color": "Silver",
+        "ramSize": "8GB",
+        "processorBrand": "Intel",
+        "processorType": "Core i5",
+        "hardDiskCapacity": "256GB SSD",
+        "storageType": "SSD",
+        "operatingSystem": "Windows 11",
+        "screenSize": "13.3 inch"
+      }
+    ]
+  },
+  {
+    "subcategoryType": "laptop",
+    "title": "DigitalPro Creator J",
+    "slug": "digitalpro-creator-j",
+    "description": "Laptop optimized for creative tasks.",
+    "specifications": [
+      { "key": "Battery Life", "value": "Up to 10 hours" },
+      { "key": "Display", "value": "15.6 inch 4K" }
+    ],
+    "questions": [
+      { "question": "Does it support color calibration?", "answers": "Yes" }
+    ],
+    "shippingFeeMethod": "fixed",
+    "freeShippingForAllCountries": false,
+    "freeShippingForSpecificCountries": ["67f5d51b4ee5b9e79a729b96"],
+    "sold": 0,
+    "returns": 0,
+    "view": 0,
+    "ratingAverage": 4.8,
+    "ratingQuality": 0,
+    "category": "682795eadd2629414e6790ec",
+    "offerTag": null,
+    "isSale": false,
+    "subCategories": ["6827987f5f75b094d8b9f799"],
+    "brand": "68279aaa175c3199a2ad325c",
+    "store": "68282edbaf241330b5f16a50",
+    "variant": [
+      {
+        "defaultVariant": false,
+        "variantTitle": "Black 1TB",
+        "variantSlug": "black-1867tb",
+        "variantDescription": "Black creator laptop with 1TB SSD and 16GB RAM.",
+        "variantSpecifications": [
+          { "key": "Color", "value": "Black" },
+          { "key": "Storage", "value": "1TB SSD" }
+        ],
+        "keywords": ["black", "1tb", "creator"],
+        "sku": "DP-CJ-B-1645TB",
+        "price": 1699,
+        "originalPrice": 1699,
+        "discountPercentage": 0,
+        "salePrice": 1699,
+        "weight": 1900,
+        "stockQuantity": 40,
+        "ReservedStock": 0,
+        "VariantSold": 0,
+        "VariantReturns": 0,
+        "imageCover": {
+          "url": "https://picsum.photos/seed/17_1/200/300",
+          "public_id": "17_1_cover"
+        },
+        "images": [],
+        "color": "Black",
+        "ramSize": "16GB",
+        "processorBrand": "Intel",
+        "processorType": "Core i7",
+        "hardDiskCapacity": "1TB SSD",
+        "storageType": "SSD",
+        "operatingSystem": "Windows 11",
+        "screenSize": "15.6 inch"
+      }
+    ]
+  },
+  {
+    "subcategoryType": "laptop",
+    "title": "GadgetWorld Hybrid I",
+    "slug": "gadgetworld-hybrid-i",
+    "description": "Convertible laptop for work and play.",
+    "specifications": [
+      { "key": "Battery Life", "value": "Up to 10 hours" },
+      { "key": "Display", "value": "14 inch FHD Touch" }
+    ],
+    "questions": [
+      { "question": "Does it support pen input?", "answers": "Yes" }
+    ],
+    "shippingFeeMethod": "item",
+    "freeShippingForAllCountries": true,
+    "freeShippingForSpecificCountries": [],
+    "sold": 0,
+    "returns": 0,
+    "view": 0,
+    "ratingAverage": 4.6,
+    "ratingQuality": 0,
+    "category": "682795eadd2629414e6790ec",
+    "offerTag": "682830f4b8ab262aa254cd1e",
+    "isSale": true,
+    "subCategories": ["6827987f5f75b094d8b9f799"],
+    "brand": "68279aaa175c3199a2ad325d",
+    "store": "68282edbaf241330b5f16a59",
+    "variant": [
+      {
+        "defaultVariant": false,
+        "variantTitle": "Silver 512GB",
+        "variantSlug": "silver-5186782gb",
+        "variantDescription": "Silver hybrid laptop with 512GB SSD and 8GB RAM.",
+        "variantSpecifications": [
+          { "key": "Color", "value": "Silver" },
+          { "key": "Storage", "value": "512GB SSD" }
+        ],
+        "keywords": ["silver", "512gb", "hybrid"],
+        "sku": "GW-HI-S-564512",
+        "price": 899,
+        "originalPrice": 999,
+        "discountPercentage": 10,
+        "salePrice": 809.1,
+        "weight": 1500,
+        "stockQuantity": 50,
+        "ReservedStock": 0,
+        "VariantSold": 0,
+        "VariantReturns": 0,
+        "imageCover": {
+          "url": "https://picsum.photos/seed/18_1/200/300",
+          "public_id": "18_1_cover"
+        },
+        "images": [],
+        "color": "Silver",
+        "ramSize": "8GB",
+        "processorBrand": "Intel",
+        "processorType": "Core i5",
+        "hardDiskCapacity": "512GB SSD",
+        "storageType": "SSD",
+        "operatingSystem": "Windows 11",
+        "screenSize": "14 inch"
+      }
+    ]
+  },
+  {
+    "subcategoryType": "laptop",
+    "title": "TechGiant Budget H",
+    "slug": "techgiant-budget-h",
+    "description": "Affordable laptop for basic tasks.",
+    "specifications": [
+      { "key": "Battery Life", "value": "Up to 6 hours" },
+      { "key": "Display", "value": "15.6 inch HD" }
+    ],
+    "questions": [],
+    "shippingFeeMethod": "weight",
+    "freeShippingForAllCountries": false,
+    "freeShippingForSpecificCountries": ["67f5d51b4ee5b9e79a729c6c"],
+    "sold": 0,
+    "returns": 0,
+    "view": 0,
+    "ratingAverage": 4.0,
+    "ratingQuality": 0,
+    "category": "682795eadd2629414e6790ec",
+    "offerTag": null,
+    "isSale": false,
+    "subCategories": ["6827987f5f75b094d8b9f799"],
+    "brand": "68279aaa175c3199a2ad325b",
+    "store": "68282edbaf241330b5f16a53",
+    "variant": [
+      {
+        "defaultVariant": false,
+        "variantTitle": "Gray 256GB",
+        "variantSlug": "gray-2867856gb",
+        "variantDescription": "Gray budget laptop with 256GB SSD and 4GB RAM.",
+        "variantSpecifications": [
+          { "key": "Color", "value": "Gray" },
+          { "key": "Storage", "value": "256GB SSD" }
+        ],
+        "keywords": ["gray", "256gb", "budget"],
+        "sku": "TG-BH-G-265456",
+        "price": 349,
+        "originalPrice": 349,
+        "discountPercentage": 0,
+        "salePrice": 349,
+        "weight": 1800,
+        "stockQuantity": 100,
+        "ReservedStock": 0,
+        "VariantSold": 0,
+        "VariantReturns": 0,
+        "imageCover": {
+          "url": "https://picsum.photos/seed/19_1/200/300",
+          "public_id": "19_1_cover"
+        },
+        "images": [],
+        "color": "Gray",
+        "ramSize": "4GB",
+        "processorBrand": "Intel",
+        "processorType": "Celeron",
+        "hardDiskCapacity": "256GB SSD",
+        "storageType": "SSD",
+        "operatingSystem": "Windows 11",
+        "screenSize": "15.6 inch"
+      }
+    ]
+  },
+  {
+    "subcategoryType": "laptop",
+    "title": "DigitalPro Pro G",
+    "slug": "digitalpro-pro-g",
+    "description": "High-performance laptop for professionals.",
+    "specifications": [
+      { "key": "Battery Life", "value": "Up to 10 hours" },
+      { "key": "Display", "value": "15.6 inch 4K" }
+    ],
+    "questions": [
+      { "question": "Does it have a backlit keyboard?", "answers": "Yes" }
+    ],
+    "shippingFeeMethod": "fixed",
+    "freeShippingForAllCountries": true,
+    "freeShippingForSpecificCountries": [],
+    "sold": 0,
+    "returns": 0,
+    "view": 0,
+    "ratingAverage": 4.9,
+    "ratingQuality": 0,
+    "category": "682795eadd2629414e6790ec",
+    "offerTag": "682830f4b8ab262aa254cd1d",
+    "isSale": true,
+    "subCategories": ["6827987f5f75b094d8b9f799"],
+    "brand": "68279aaa175c3199a2ad325c",
+    "store": "68282edbaf241330b5f16a50",
+    "variant": [
+      {
+        "defaultVariant": false,
+        "variantTitle": "Black 1TB",
+        "variantSlug": "black-1867675tb",
+        "variantDescription": "Black pro laptop with 1TB SSD and 16GB RAM.",
+        "variantSpecifications": [
+          { "key": "Color", "value": "Black" },
+          { "key": "Storage", "value": "1TB SSD" }
+        ],
+        "keywords": ["black", "1tb", "pro"],
+        "sku": "DP-PG-B-1645TB",
+        "price": 1799,
+        "originalPrice": 1999,
+        "discountPercentage": 10,
+        "salePrice": 1619.1,
+        "weight": 2000,
+        "stockQuantity": 30,
+        "ReservedStock": 0,
+        "VariantSold": 0,
+        "VariantReturns": 0,
+        "imageCover": {
+          "url": "https://picsum.photos/seed/20_1/200/300",
+          "public_id": "20_1_cover"
+        },
+        "images": [],
+        "color": "Black",
+        "ramSize": "16GB",
+        "processorBrand": "Intel",
+        "processorType": "Core i7",
+        "hardDiskCapacity": "1TB SSD",
+        "storageType": "SSD",
+        "operatingSystem": "Windows 11 Pro",
+        "screenSize": "15.6 inch"
+      }
+    ]
+  }
+]

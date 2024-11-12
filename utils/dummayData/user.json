@@ -1,0 +1,197 @@
+[
+  {
+    "name": "Alice Johnson",
+    "slug": "alice-johnson",
+    "email": "alice.johnson@example.com",
+    "phone": "+1234567890",
+    "password": "Password123!",
+    "role": "admin",
+    "active": true,
+    "profileImg": {
+      "url": "https://picsum.photos/seed/alice-johnson/200/200",
+      "public_id": "picsum_alice_johnson"
+    }
+  },
+  {
+    "name": "Bob Smith",
+    "slug": "bob-smith",
+    "email": "bob.smith@example.com",
+    "phone": "+1234567891",
+    "password": "Password123!",
+    "role": "admin",
+    "active": true,
+    "profileImg": {
+      "url": "https://picsum.photos/seed/bob-smith/200/200",
+      "public_id": "picsum_bob_smith"
+    }
+  },
+  {
+    "name": "Carol Williams",
+    "slug": "carol-williams",
+    "email": "carol.williams@example.com",
+    "phone": "+1234567892",
+    "password": "Password123!",
+    "role": "admin",
+    "active": true,
+    "profileImg": {
+      "url": "https://picsum.photos/seed/carol-williams/200/200",
+      "public_id": "picsum_carol_williams"
+    }
+  },
+  {
+    "name": "David Brown",
+    "slug": "david-brown",
+    "email": "david.brown@example.com",
+    "phone": "+1234567893",
+    "password": "Password123!",
+    "role": "admin",
+    "active": true,
+    "profileImg": {
+      "url": "https://picsum.photos/seed/david-brown/200/200",
+      "public_id": "picsum_david_brown"
+    }
+  },
+  {
+    "name": "Eva Davis",
+    "slug": "eva-davis",
+    "email": "eva.davis@example.com",
+    "phone": "+1234567894",
+    "password": "Password123!",
+    "role": "admin",
+    "active": true,
+    "profileImg": {
+      "url": "https://picsum.photos/seed/eva-davis/200/200",
+      "public_id": "picsum_eva_davis"
+    }
+  },
+  {
+    "name": "Frank Miller",
+    "slug": "frank-miller",
+    "email": "frank.miller@example.com",
+    "phone": "+1234567895",
+    "password": "Password123!",
+    "role": "seller",
+    "active": true,
+    "profileImg": {
+      "url": "https://picsum.photos/seed/frank-miller/200/200",
+      "public_id": "picsum_frank_miller"
+    }
+  },
+  {
+    "name": "Grace Wilson",
+    "slug": "grace-wilson",
+    "email": "grace.wilson@example.com",
+    "phone": "+1234567896",
+    "password": "Password123!",
+    "role": "seller",
+    "active": true,
+    "profileImg": {
+      "url": "https://picsum.photos/seed/grace-wilson/200/200",
+      "public_id": "picsum_grace_wilson"
+    }
+  },
+  {
+    "name": "Henry Moore",
+    "slug": "henry-moore",
+    "email": "henry.moore@example.com",
+    "phone": "+1234567897",
+    "password": "Password123!",
+    "role": "seller",
+    "active": true,
+    "profileImg": {
+      "url": "https://picsum.photos/seed/henry-moore/200/200",
+      "public_id": "picsum_henry_moore"
+    }
+  },
+  {
+    "name": "Ivy Taylor",
+    "slug": "ivy-taylor",
+    "email": "ivy.taylor@example.com",
+    "phone": "+1234567898",
+    "password": "Password123!",
+    "role": "seller",
+    "active": true,
+    "profileImg": {
+      "url": "https://picsum.photos/seed/ivy-taylor/200/200",
+      "public_id": "picsum_ivy_taylor"
+    }
+  },
+  {
+    "name": "Jack Anderson",
+    "slug": "jack-anderson",
+    "email": "jack.anderson@example.com",
+    "phone": "+1234567899",
+    "password": "Password123!",
+    "role": "seller",
+    "active": true,
+    "profileImg": {
+      "url": "https://picsum.photos/seed/jack-anderson/200/200",
+      "public_id": "picsum_jack_anderson"
+    }
+  },
+  {
+    "name": "Karen Thomas",
+    "slug": "karen-thomas",
+    "email": "karen.thomas@example.com",
+    "phone": "+1234567800",
+    "password": "Password123!",
+    "role": "user",
+    "active": true,
+    "profileImg": {
+      "url": "https://picsum.photos/seed/karen-thomas/200/200",
+      "public_id": "picsum_karen_thomas"
+    }
+  },
+  {
+    "name": "Leo Jackson",
+    "slug": "leo-jackson",
+    "email": "leo.jackson@example.com",
+    "phone": "+1234567801",
+    "password": "Password123!",
+    "role": "user",
+    "active": true,
+    "profileImg": {
+      "url": "https://picsum.photos/seed/leo-jackson/200/200",
+      "public_id": "picsum_leo_jackson"
+    }
+  },
+  {
+    "name": "Mia White",
+    "slug": "mia-white",
+    "email": "mia.white@example.com",
+    "phone": "+1234567802",
+    "password": "Password123!",
+    "role": "user",
+    "active": true,
+    "profileImg": {
+      "url": "https://picsum.photos/seed/mia-white/200/200",
+      "public_id": "picsum_mia_white"
+    }
+  },
+  {
+    "name": "Noah Harris",
+    "slug": "noah-harris",
+    "email": "noah.harris@example.com",
+    "phone": "+1234567803",
+    "password": "Password123!",
+    "role": "user",
+    "active": true,
+    "profileImg": {
+      "url": "https://picsum.photos/seed/noah-harris/200/200",
+      "public_id": "picsum_noah_harris"
+    }
+  },
+  {
+    "name": "Olivia Martin",
+    "slug": "olivia-martin",
+    "email": "olivia.martin@example.com",
+    "phone": "+1234567804",
+    "password": "Password123!",
+    "role": "user",
+    "active": true,
+    "profileImg": {
+      "url": "https://picsum.photos/seed/olivia-martin/200/200",
+      "public_id": "picsum_olivia_martin"
+    }
+  }
+]

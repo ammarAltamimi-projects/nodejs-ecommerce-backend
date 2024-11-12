@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Black Friday",
+    "slug": "black-friday",
+    "saleStartDate": "2025-05-17T00:00:00.000Z",
+    "saleEndDate":   "2025-07-17T23:59:59.999Z",
+    "discountType": "percentage",
+    "discountValue": 60,
+    "featured": true
+  },
+  {
+    "name": "Cyber Monday",
+    "slug": "cyber-monday",
+    "saleStartDate": "2025-05-17T00:00:00.000Z",
+    "saleEndDate":   "2025-07-17T23:59:59.999Z",
+    "discountType": "percentage",
+    "discountValue": 40,
+    "featured": true
+  },
+  {
+    "name": "Summer Sale",
+    "slug": "summer-sale",
+    "saleStartDate": "2025-05-17T00:00:00.000Z",
+    "saleEndDate":   "2025-07-17T23:59:59.999Z",
+    "discountType": "percentage",
+    "discountValue": 30,
+    "featured": false
+  },
+  {
+    "name": "Flash Sale",
+    "slug": "flash-sale",
+    "saleStartDate": "2025-05-17T08:00:00.000Z",
+    "saleEndDate":   "2025-07-17T23:59:59.999Z",
+    "discountType": "fixed",
+    "discountValue": 20,
+    "featured": true
+  },
+  {
+    "name": "Free Shipping",
+    "slug": "free-shipping",
+    "saleStartDate": "2025-05-17T00:00:00.000Z",
+    "saleEndDate":   "2025-07-17T23:59:59.999Z",
+    "discountType": "fixed",
+    "discountValue": 0,
+    "featured": false
+  },
+  {
+    "name": "Buy One Get One",
+    "slug": "bogo",
+    "saleStartDate": "2025-05-17T00:00:00.000Z",
+    "saleEndDate":   "2025-07-17T23:59:59.999Z",
+    "discountType": "fixed",
+    "discountValue": 100,
+    "featured": false
+  },
+  {
+    "name": "Tiered Discount",
+    "slug": "tiered-discount",
+    "saleStartDate": "2025-05-17T00:00:00.000Z",
+    "saleEndDate":   "2025-07-17T23:59:59.999Z",
+    "discountType": "percentage",
+    "discountValue": 15,
+    "featured": false
+  },
+  {
+    "name": "Coupon Code",
+    "slug": "coupon-code",
+    "saleStartDate": "2025-05-17T00:00:00.000Z",
+    "saleEndDate":   "2025-07-17T23:59:59.999Z",
+    "discountType": "percentage",
+    "discountValue": 10,
+    "featured": false
+  }
+]

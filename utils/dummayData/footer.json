@@ -1,0 +1,57 @@
+{
+  "_id": "footer",
+  "callToAction": {
+    "title": "Got Questions ? Call us 24/7!",
+    "phoneNumbers": "(800) 9213-6472 , (800) 7324-1859"
+  },
+  "contactInfo": {
+    "title": "Contact Info",
+    "info": "1357 Maple Grove Avenue, Springfield, IL 62704, USA"
+  },
+  "socialMedia": [
+    {
+      "title": "Facebook",
+      "url": "https://facebook.com"
+    },
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com"
+    }
+  ],
+  "findItFast": {
+    "title": "Find it Fast",
+    "text": [
+      { "textTitle": "Gaming Desktops", "url": "/gaming-desktops" },
+      { "textTitle": "Gaming Keyboards", "url": "/gaming-keyboards" },
+      { "textTitle": "Dresses", "url": "/dresses" },
+      { "textTitle": "T-Shirts & Polos", "url": "/tshirts-polos" },
+      { "textTitle": "Home Essentials", "url": "/home-essentials" },
+      { "textTitle": "Laptops", "url": "/laptops" },
+      { "textTitle": "Jackets & Outerwear", "url": "/jackets-outerwear" }
+    ]
+  },
+  "quickAccess": {
+    "title": "About",
+    "text": [
+      { "textTitle": "Contact", "url": "/contact" },
+      { "textTitle": "Wishlist", "url": "/wishlist" },
+      { "textTitle": "Compare", "url": "/compare" },
+      { "textTitle": "FAQ", "url": "/faq" },
+      { "textTitle": "Store Directory", "url": "/store-directory" }
+    ]
+  },
+  "customerCare": {
+    "title": "Customer care",
+    "text": [
+      { "textTitle": "My Account", "url": "/my-account" },
+      { "textTitle": "Track your Order", "url": "/track-order" },
+      { "textTitle": "Customer Service", "url": "/customer-service" },
+      { "textTitle": "Returns/Exchange", "url": "/returns" },
+      { "textTitle": "FAQs", "url": "/faqs" },
+      { "textTitle": "Product Support", "url": "/support" }
+    ]
+  },
+  "newsletterSignUp": "Sign up to Newsletter",
+  "signUpButton": "Sign up",
+  "copyright": "© GoShop - All Rights Reserved"
+}

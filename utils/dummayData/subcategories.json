@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Mobile Phones",
+    "slug": "mobile-phones",
+    "category": "682795eadd2629414e6790ec",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/mobile-phones/320/240",
+      "public_id": "picsum_mobile_phones"
+    }
+  },
+  {
+    "name": "Laptops",
+    "slug": "laptops",
+    "category": "682795eadd2629414e6790ec",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/laptops/320/240",
+      "public_id": "picsum_laptops"
+    }
+  },
+  {
+    "name": "Cameras",
+    "slug": "cameras",
+    "category": "682795eadd2629414e6790ec",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/cameras/320/240",
+      "public_id": "picsum_cameras"
+    }
+  },
+  {
+    "name": "Men's Clothing",
+    "slug": "mens-clothing",
+    "category": "682795eadd2629414e6790ed",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/mens-clothing/320/240",
+      "public_id": "picsum_mens_clothing"
+    }
+  },
+  {
+    "name": "Women's Clothing",
+    "slug": "womens-clothing",
+    "category": "682795eadd2629414e6790ed",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/womens-clothing/320/240",
+      "public_id": "picsum_womens_clothing"
+    }
+  },
+  {
+    "name": "Kids' Clothing",
+    "slug": "kids-clothing",
+    "category": "682795eadd2629414e6790ed",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/kids-clothing/320/240",
+      "public_id": "picsum_kids_clothing"
+    }
+  },
+  {
+    "name": "Furniture",
+    "slug": "furniture",
+    "category": "682795eadd2629414e6790ee",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/furniture/320/240",
+      "public_id": "picsum_furniture"
+    }
+  },
+  {
+    "name": "Cookware",
+    "slug": "cookware",
+    "category": "682795eadd2629414e6790ee",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/cookware/320/240",
+      "public_id": "picsum_cookware"
+    }
+  },
+  {
+    "name": "Home Decor",
+    "slug": "home-decor",
+    "category": "682795eadd2629414e6790ee",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/home-decor/320/240",
+      "public_id": "picsum_home_decor"
+    }
+  },
+  {
+    "name": "Skincare",
+    "slug": "skincare",
+    "category": "682795eadd2629414e6790ef",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/skincare/320/240",
+      "public_id": "picsum_skincare"
+    }
+  },
+  {
+    "name": "Makeup",
+    "slug": "makeup",
+    "category": "682795eadd2629414e6790ef",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/makeup/320/240",
+      "public_id": "picsum_makeup"
+    }
+  },
+  {
+    "name": "Haircare",
+    "slug": "haircare",
+    "category": "682795eadd2629414e6790ef",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/haircare/320/240",
+      "public_id": "picsum_haircare"
+    }
+  },
+  {
+    "name": "Fiction",
+    "slug": "fiction",
+    "category": "682795eadd2629414e6790f0",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/fiction/320/240",
+      "public_id": "picsum_fiction"
+    }
+  },
+  {
+    "name": "Non-fiction",
+    "slug": "non-fiction",
+    "category": "682795eadd2629414e6790f0",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/non-fiction/320/240",
+      "public_id": "picsum_non_fiction"
+    }
+  },
+  {
+    "name": "Children's Books",
+    "slug": "childrens-books",
+    "category": "682795eadd2629414e6790f0",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/childrens-books/320/240",
+      "public_id": "picsum_childrens_books"
+    }
+  },
+  {
+    "name": "Camping",
+    "slug": "camping",
+    "category": "682795eadd2629414e6790f1",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/camping/320/240",
+      "public_id": "picsum_camping"
+    }
+  },
+  {
+    "name": "Fitness",
+    "slug": "fitness",
+    "category": "682795eadd2629414e6790f1",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/fitness/320/240",
+      "public_id": "picsum_fitness"
+    }
+  },
+  {
+    "name": "Cycling",
+    "slug": "cycling",
+    "category": "682795eadd2629414e6790f1",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/cycling/320/240",
+      "public_id": "picsum_cycling"
+    }
+  },
+  {
+    "name": "Board Games",
+    "slug": "board-games",
+    "category": "682795eadd2629414e6790f2",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/board-games/320/240",
+      "public_id": "picsum_board_games"
+    }
+  },
+  {
+    "name": "Action Figures",
+    "slug": "action-figures",
+    "category": "682795eadd2629414e6790f2",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/action-figures/320/240",
+      "public_id": "picsum_action_figures"
+    }
+  },
+  {
+    "name": "Puzzles",
+    "slug": "puzzles",
+    "category": "682795eadd2629414e6790f2",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/puzzles/320/240",
+      "public_id": "picsum_puzzles"
+    }
+  },
+  {
+    "name": "Supplements",
+    "slug": "supplements",
+    "category": "682795eadd2629414e6790f3",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/supplements/320/240",
+      "public_id": "picsum_supplements"
+    }
+  },
+  {
+    "name": "Personal Care",
+    "slug": "personal-care",
+    "category": "682795eadd2629414e6790f3",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/personal-care/320/240",
+      "public_id": "picsum_personal_care"
+    }
+  },
+  {
+    "name": "Medical Devices",
+    "slug": "medical-devices",
+    "category": "682795eadd2629414e6790f3",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/medical-devices/320/240",
+      "public_id": "picsum_medical_devices"
+    }
+  }
+]

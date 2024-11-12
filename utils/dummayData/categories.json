@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Electronics",
+    "slug": "electronics",
+    "featured": true,
+    "image": {
+      "url": "https://picsum.photos/seed/electronics/320/240",
+      "public_id": "picsum_electronics"
+    }
+  },
+  {
+    "name": "Clothing",
+    "slug": "clothing",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/clothing/320/240",
+      "public_id": "picsum_clothing"
+    }
+  },
+  {
+    "name": "Home & Kitchen",
+    "slug": "home-kitchen",
+    "featured": true,
+    "image": {
+      "url": "https://picsum.photos/seed/home-kitchen/320/240",
+      "public_id": "picsum_home_kitchen"
+    }
+  },
+  {
+    "name": "Beauty & Personal Care",
+    "slug": "beauty-personal-care",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/beauty-personal-care/320/240",
+      "public_id": "picsum_beauty_personal_care"
+    }
+  },
+  {
+    "name": "Books",
+    "slug": "books",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/books/320/240",
+      "public_id": "picsum_books"
+    }
+  },
+  {
+    "name": "Sports & Outdoors",
+    "slug": "sports-outdoors",
+    "featured": true,
+    "image": {
+      "url": "https://picsum.photos/seed/sports-outdoors/320/240",
+      "public_id": "picsum_sports_outdoors"
+    }
+  },
+  {
+    "name": "Toys & Games",
+    "slug": "toys-games",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/toys-games/320/240",
+      "public_id": "picsum_toys_games"
+    }
+  },
+  {
+    "name": "Health & Wellness",
+    "slug": "health-wellness",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/health-wellness/320/240",
+      "public_id": "picsum_health_wellness"
+    }
+  },
+  {
+    "name": "Jewelry & Accessories",
+    "slug": "jiyelry-accessories",
+    "featured": true,
+    "image": {
+      "url": "https://picsum.photos/seed/jewelry-accessories/320/240",
+      "public_id": "picsum_jewelry_accessories"
+    }
+  },
+  {
+    "name": "Automotive",
+    "slug": "automotive",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/automotive/320/240",
+      "public_id": "picsum_automotive"
+    }
+  },
+  {
+    "name": "Office Supplies",
+    "slug": "office-supplies",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/office-supplies/320/240",
+      "public_id": "picsum_office_supplies"
+    }
+  },
+  {
+    "name": "Pet Supplies",
+    "slug": "pet-supplies",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/pet-supplies/320/240",
+      "public_id": "picsum_pet_supplies"
+    }
+  },
+  {
+    "name": "Baby Products",
+    "slug": "baby-products",
+    "featured": true,
+    "image": {
+      "url": "https://picsum.photos/seed/baby-products/320/240",
+      "public_id": "picsum_baby_products"
+    }
+  },
+  {
+    "name": "Garden & Outdoor",
+    "slug": "garden-outdoor",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/garden-outdoor/320/240",
+      "public_id": "picsum_garden_outdoor"
+    }
+  },
+  {
+    "name": "Tools & Home Improvement",
+    "slug": "tools-home-improvement",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/tools-home-improvement/320/240",
+      "public_id": "picsum_tools_home_improvement"
+    }
+  },
+  {
+    "name": "Grocery & Gourmet Food",
+    "slug": "grocery-gourmet-food",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/grocery-gourmet-food/320/240",
+      "public_id": "picsum_grocery_gourmet_food"
+    }
+  },
+  {
+    "name": "Art Supplies",
+    "slug": "art-supplies",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/art-supplies/320/240",
+      "public_id": "picsum_art_supplies"
+    }
+  },
+  {
+    "name": "Musical Instruments",
+    "slug": "musical-instruments",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/musical-instruments/320/240",
+      "public_id": "picsum_musical_instruments"
+    }
+  },
+  {
+    "name": "Software",
+    "slug": "software",
+    "featured": false,
+    "image": {
+      "url": "https://picsum.photos/seed/software/320/240",
+      "public_id": "picsum_software"
+    }
+  },
+  {
+    "name": "Video Games",
+    "slug": "video-games",
+    "featured": true,
+    "image": {
+      "url": "https://picsum.photos/seed/video-games/320/240",
+      "public_id": "picsum_video_games"
+    }
+  }
+]
